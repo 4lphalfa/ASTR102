@@ -1,0 +1,206 @@
+==========
+2018-09-06
+==========
+
+Sagitarius A - The black hole at the centre of the Milky Way
+
+Dr. Kevin Casteels
+ELL 201
+Mon 4-6 pm
+250 721-7728
+casteels@uvic.ca
+
+Sept 17 - iClicker questions start counting
+
+
+
+Basic statements about the Universe that you might not have thought about
+    - The Universe is finite
+    - We have seen the edge of the observable Universe
+    - The Universe is mostly empty space
+    - The main constituents of the Universe are understood but unknown
+    - Most matter is of unknown nature ('dark matter')
+    - Radiation ('light') fills the Universe
+    - Most energy is in a mysterious form ('dark enerty')
+    - Most atoms that make up our bodies were manufactured in stars
+    - Galaxies are basically 'empty'
+
+Galaxies are basically 'empty'
+If you were to pick a spot at random in a galaxy, how often would you land in a star?
+        one in 10^23
+
+Scientific Notation
+
+A journey through our Universe
+    Earth
+    Solar system
+    Interstellar Neighborhood
+    Milky Way Galaxy
+    Local Galaxy Group
+    Virgo Supercluster
+    Local Superclusters
+    Observable Universe
+    
+
+Our place in Space
+    - A galaxy like our Milky Way is about 100000 light years across
+    - A light year is the distance light would trabel in a year, about 10000 billion km ~10^13 km
+    - Another unit of distance commonly used in Astronomy is the "parsec" which is about 3.3 light years. (206265 AU)
+        (AU: Average distane between the Earth and the Sun)
+
+Scientific Theory and the Scientific Method
+Astronomy is a Science
+    Scientific Knowledge
+        - The difference between "explanation" and "understanding"
+        - A scientist should be able to "predict the future" through models
+    Scientific Theories:
+        - Must be testable
+        - Must be continually tested
+        - Should be simple
+        - Should be elegant
+    Scientific theories can be proven wrong, but they can never be proven right with 100 percent certainty.
+
+Scientific Theory and the Scientific Method
+    - Observation leads to theory explaining it.
+    - Theory leads to predicitons consistent with previous observations
+    - Predictions of new phenomena are observed. If the observations agree with the prediction, more predictions can be made. If not, a new theory should be made.
+
+The "Obvious" View
+    Simplest observation: 
+        Look at the night sky
+        About 3000 stars visible at any one time; distributed randomly but human brains tends to find patterns
+    Groups stars into constellations:
+        Figures having meaning to those doing the grouping
+    Useful:
+        Polaris, which is almost due north
+    Useless:
+        Astrology, which makes predictions about individuals based on the star patterns at their birth
+    Stars that appear close in the sky may not actually be close in space
+    The Celestial sphere:
+        Stars seem to be on the inner surface of a sphere surrounding the Earth
+        They aren't, but can use two-dimentional spherical coordinates (similar to latitude and longitude) to locate sky objects
+
+Angular Measures
+    - full circle contains 360 degrees
+    - Each degree contains 60' (arc-minuted)
+        * full moon/sun subtend half a degree on the sky, or ~30 arc-minutes
+    - Each arc-minute contains 60" (arc-seconds)
+    - Angular size of an object...
+
+Daily motion of Stars
+    All stars appear to trace "circles" on the sky, completing one per day
+
+Earth's Orbital Motion
+    - daily cicyle, noon to noon, is diurnal motion - solar day
+    - Stars aren't in quite the same place 24 hours later, though, due to Earth's rotation around Sun; when they are once again in the same place, one sidereal day has passed.
+
+1.4 Earth's Orbital Motion
+Seasonal changes to night sky are due to Earth's motion around the Sun
+
+
+
+
+
+==========
+2018-09-10
+==========
+
+Sidereal Day (23h 56min) - One rotation relative to the stars 
+Solar Day (24h) - One rotation relative to the sun
+
+Earth's Orbital Motion
+    12 constellations Sun move through during the year are called the zodiac; the path is call the "Ecliptic"
+    - Ecliptic is pane of Earth's path around SUN; at 23.5 degrees to celestial equator
+    - Northernmost point of path (above celestial equator) is summer solstice; southernmost is winter solstice; points where path crosses celestial equator are vernal and automnal equinoxes
+    - Combination of day length and sunlingt angle gives seasons
+    - Time from one vernal equinox to next is tropical year
+    Precession: rotation of earth's axis itself; makes one complete circle in about 26000 years
+    Time for Earth to orbitonce around Sun, relative to fixed stars, is sidereal year
+    Tropical year follows seasons; sidereal year follows constellations - in 13000 years July and August will still be summer, but Orion will be a summer constellation
+    Tropical year is 20 min shorter than the sidereal year.
+
+1.5 Motion of the Moon
+    Moon takes about 29.5 days to go through whole cycle of phases - synodic month
+    Phases are due to different amounts of sunlit portion being visible from Earth
+    Time to make full 360 degree rotation around Earth, sidereal month, is about 2 days shorter due to motion around sun.
+    Eclipses occur when Earth, Moon, and Sun form a straight line
+    Lunar Eclipse:
+        - Earth is between Moon and Sun
+        - Partial when only part of Moon is in shadow
+        - Total when it all is in shadow
+    Solar Eclipse:
+        - Moon is between earth and sun
+        - Partial when only part of sun is blocked
+        - Total when it all is blocked
+        - Annular when Moon is too far from Earth for total
+    Eclipses don't occur every month because Earth's and Moon's orbits are not in the same plane
+
+The Measurement of Distance
+    Triangulation: Measure baseline and angles, can calculate distance
+    Parallax: Similar to triangluation, but look at apparent motion of object against distance background from two vantage points
+    Measuring Earth's Radius: done by Eratosthenes about 2300 years ago; noticed that when Sun was directly overhead in one city, it was at an agnle in another
+    Measuring that angle and the distance between the cities gives the radius
+
+GAIA Spacecraft currently mapping Milky Way Galaxy
+    - GAIA will map 3D positions over 1 billion stars
+    - This represents only 1% of the stars in the Milky Way Galaxy
+   
+
+
+Ch2 The Copernican Revolution
+
+Ancient Calenders
+    - Across Europe, many stone structures were built to mark astronomical events
+
+Babylonian Astronomy
+    The Babyonians had complex mathematical models to describe the motions of the Moon and other planets.
+    Their clay tablets provide us with the earliest written astronomical obesrvations, dating from around 1200 BC
+    Western astronomy is directly desendent from Babylonian astronomy.
+
+Ancient Astronomy
+    Spokes of the Big Horn Medicine Wheel (WY, USA) are aligned with 
+    This temple at Caracol, in Mexico, has many windows that are aligned with astronomical events
+
+Mayan Astronomy: Dresden Codex - approx 1200 AD
+
+Timeline
+    Aristotle/Plato 400 BC
+    Ptolemy 100 AD
+    Gutenberg 1439 AD
+    Luther 1517 AD
+    Copernicus 1473-1543 AD
+    G. Bruno 1548-1600 AD
+    Galileo 1564-1642 AD
+    Kepler 1571-1630
+    Newton 1642-1727 AD
+
+The Geocentric Universe
+    Ancient astronomers observed the Sun, the Moon,...
+    Planets ("Wanderers"):
+        - Move with respect to fixed stars
+        - Changed in brightness
+        - Change speed
+        - Undergo retrograde motion relative to fixed stars
+    Inferior Planets: Mercury, Venus
+    Superiro Planets: Mars, Jupiter, Saturn
+    Now know: 
+        inferior planets have orbits closer to Sun than Earth's 
+        Superiro planets' orbits are farther away
+    Early observations:
+        - inferiro planets never too far from Sun
+        - Superior planets not tied to Sun; exhibit retrograde motion
+        - ...
+
+    Earliest modesl had Earth at center of solar system
+    Needed lots of complications to accurately track planetary motions
+    Planetary motions were one of the premier...
+    
+    Ptolemy's Complicated Cosmological System
+        Each planet orbits around a small circle called an epicycle. 
+        Each epicycle orbits on a larger circle called the deferent. 
+        This system is not centerd exactly on Earth but on an offset point called the equant.
+
+
+
+
+Z
