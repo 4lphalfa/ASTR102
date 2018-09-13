@@ -203,4 +203,117 @@ The Geocentric Universe
 
 
 
-Z
+
+==========
+2018-09-13
+==========
+
+Geocentric Universe
+    Hard to explain the retrograde motion of planets, used a concept called epicycles
+
+Ptolemy's Complicated Cosmological System
+
+Arabic Astromony
+    Still based on the geocentric model
+    Much of the terminology comes from Arabic astronomers
+
+Nicolaus Copernicus (1473-1543)
+    Rediscovered the writings are Aristarcas
+    The sun is the center
+
+Copernicus' Model
+    Predicted retrograde model
+    Still relied on circles
+
+Heliocentric vs Geocentric models
+    They are mathematically equivilent
+
+The Heliocentric Model of the solar system
+    Explains what's happening with retrograde motion
+
+The Foundations of the Copernican Revolution
+    Earth is at the center of the moon's orbit
+    All planets revolve around the sun
+    The stars are far away because there is no observed paralax
+    Motion of stars is because of the earth's rotation
+    Earth is not the center of everything
+
+Galileo Galilei (1564-1642)
+    First astronmer to use telescopes 
+    NOT the first to invent them
+    Disovered evidence the contridict the geocentric model
+
+    The birth of modern astronomy
+        Looked at the Milky Way and saw it was made of many stars
+        Discovered that the moon has mountains and valleys
+        Observed the sun had sunspots and that it rotates, 1 month rotation
+        Saw that Jupiter has moons
+        Venus has phases
+            The geocentric model can not explain this
+
+Aristotle's view
+    Based on meditation and thought
+    Rest is the 'natural' state of matter
+
+The New Science: Galileo's view
+    Set up a physics lab
+
+Inertia
+    Experiments with pendulums
+    Weight and speed of freefall
+
+Planetary Motions
+    Arrogant, made fun of people who didn't believe in the heliocentric model
+
+Galileo's Trial
+    Galileo was tried and convicted of heracy by the Roman Inquisition
+
+The Heliocentric Universe
+    Inferior planets: Mercury, Venus
+    Superior planets: Mars, Jupiter, Saturn
+
+The Laws of Planetary Motion
+    Kepler's laws were derived using observations made by Tycho Brahe
+    Tycho made very precice observations on Mars
+
+Conic Sections
+    Intersection of a plane with a cone
+
+Kepler's Laws of Planetary Motion
+    Planetary orbits are ellipses, SUn at one focus
+    Imaginary line connecting Sun and planet sweeps out equal areas in equal times (Closer to the sun means faster, further means slower)
+    Square of period of planet's orbital motion is proportional to cube of semimajor axis (a^3 = p^2, a is distance, p is period)
+    
+Some properties of Planetary Orbits
+    
+Newton's Laws of motion
+    An object at rest will remain at rest, and an object moving in a straight line at constant speed will not change its motion, unless and external force acts on it
+    When a force is exerted on an object, its acceleration is inversely proportional to its mass: a = F/m
+    When object A xerts a force on object B, object B exerts an equal and opposite force on object A
+
+Newton's Laws of gravity
+    On the earth's surface, acceleration of gravity is approximately constant, and directed towards the center of earth
+    For two massive objects, gravitational force is proportional to the product of their masses divided by the square of the distance between them
+    The constant G is called the gravitational constant; it is measured experimentally and found to be  G = 6.67x10^-11
+        F = GM1M2/r^2
+
+Newtonian Mechanics
+    The planets also exert a force on the sun
+    This means that the sun moves as well ever so slightly
+    Escape velocity: how fast something has to go to escape the earth's gravity
+
+Einstein's Theory of General Relativity
+    Gravity doesn't produce a force, but instead it curves/warps space time, resulting in an acceleration towards the centre of gravity
+    
+Proof of Einstein's Theories
+    Gravity is due to a curvature of space-time
+    When mass is introduced, space-time is warped
+        Star light bends around the sun due to its mass warping space
+
+Gravitational Lensing
+    Light is bent by an intermediate galaxy to observe a galaxy that should not be seeable
+
+
+
+
+
