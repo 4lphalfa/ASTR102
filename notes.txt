@@ -317,3 +317,97 @@ Gravitational Lensing
 
 
 
+==========
+2018-09-17
+==========
+
+Chapter 3: Radiation
+
+Electromagnetic Radiation:
+    ex. Light
+    Light moves through the vacum of space
+
+Waves in water
+    Waves are a way of transmitting energy without transporting them along
+    The particles are just moving up and down
+
+Waves
+    Wave Motion: Transmits energy without the physical trasport of material
+
+Wave Properties
+    Frequency: # of wave crests that pass a given point per second
+    Period: Time between passage of sucessive crests
+        Period = 1/Frequency
+    Wavelength: Distance between sucessive crests
+    Velocity: Speed at which crests move
+        Velocity = Wavelength/Period
+
+Waves in what?
+    Most waves travel in a medium
+    Light is an electromagnetic wave
+    Change in electromagnetic field causes the waves
+
+Electromagnetic waves:
+    Oscillating electric and magnetic fields, Changing electric field creates magnetic field and vice versa
+
+What's it traveling through
+    The vacum of space
+    The fabric of space time also contains electromagnetic fields and can have positive or negative fields
+
+Speed of light:
+    c = 299792458 m/s
+    Sun to Earth: 8.32 min
+    Andromeda Galaxy to Earth: 2.5 Million Years
+        Andromeda Galaxy is 2.5 Million light years away
+
+Info from the Skies
+    Visible Spectrum
+    Skin can detect infared radiation
+    
+The Electromagnetic Spectrum
+    No limit of wavelengths
+    Different ranges have different names
+
+The Wave Nature of Radiation
+    Diffraction is purely a wave phenomenon.
+
+Interference
+    Is also a wave phenomenon
+    Crests and troughs can add up to nothing
+    "Double Slit Experiment"
+    Constructive and Destructive interference
+
+Thermal Radiation
+Blackbody spectrum
+    
+The Kelvin Temperature Scale
+    Water freezes at 273 K, boils at 373 K
+    O K - All thermal motion stops
+
+Thermal Radiation
+    Radiation Laws
+        1. Peak wavelength is inverseley proportional to temperature (frequency is directly proportional to temperature
+        2. Total energy emitted is proportional to fourth power of temperature (note heavier curves)
+        
+More about the Radiation Laws
+    Wien's Law: if we measure T in kelvin and lambda in mm, we find for the peak wavelength: lambda_max - 2.9 mm/T
+
+The Echo of the Big Bang
+    
+The Perfect Black Body
+
+Wien's law means that hotter stars produce much more high-frequency light
+
+The Doppler Effect
+    If one is moving toward a source of radiation, the wavelengths seems shorter; if moving aay, they seem lighter
+    Depends only on the relative motion of source and observer
+    Relationship between frequency and speed:
+        Apparent Wavelength / True Wavelength = True Frequency / Apparent Frequency
+                                              = 1 + Recession Velocity / Wave Speed
+
+Measuing Velocities with the Doppler effect
+
+
+
+
+
