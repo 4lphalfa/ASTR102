@@ -411,3 +411,112 @@ Measuing Velocities with the Doppler effect
 
 
 
+==========
+2018-09-20
+==========
+
+Spectroscopy
+
+Refraction of Light
+    Refraction: light travels through different materials at different speeds
+    Fermat's Principle: Light slows down in water and changes path to minimize the time it takes to reach a particular point
+    Prism: Blue light 'bends more' than red light
+
+Gravitational Lenzing
+    Fermat's Principle: Gravity may produce multiple images of distant stars
+
+Spectral Lines
+    Spectroscope: Splits light into component colours
+    Emmission lines: Single frequencies emitted by partucular atoms
+    "The fingerprint of an atom"
+    Emission spectrum can be used to identify elements
+
+Absorption Spectrum
+    If a continuous spectrum passes through a cool gas, atoms of the gas will absorb the same frequencies they emit
+    The cool gas absorbs some of the light and create dark lines, gives the signature of the atom
+
+Spectral Lines
+    An absorbtion spectrum can also be used to identify elements. 
+    Absorption is inverse of Emission
+
+Kirchhoff's Laws
+    1. Luminous solid, liquid, or dense gas produces continuous spectrum (essentially a "black boody")
+    2. Low-density hot gas produces emission spectrum
+    3. Continuous spectrum incident on cool, thin gas prduces absorption spectrum
+
+Atoms and Radiation
+    Existense of spectral lines required new model of atom, so that only certain amounts ("quanta") of energy could be emitted or absorbed
+    Bohr model had certain allowed orbits for electron in the hydrogen atom
+
+The Hydrogen Aom
+    Energy levels of the hydrogen aton, showing tow series of emission lines:
+        The energies of the electron in each orbit are given by: E_n = 13.6(1-1/n^2)eV
+        The emission lines corresponding to the energy differences 
+        eV = electron-Volt (a unit of energy)
+
+The Photoelectric Effect
+    Photoelectric effect can only be understood if light behaves like particles
+    The Photoelectric Effect:
+        When light shines on metal, electrons can be emitted
+        Frequency must be higher than minimum, characteristic of material
+        Increaed frequency -- more energetic electrons
+        Increased intensity -- more electrons, same energy
+
+Atoms and Radiation
+    Light particles ("Photons") each have energy E
+    ...
+
+Wave-Particle Duality
+    If light is made of 'particles' how can effects like diffraction or interference coour? Thie is one ot the conundrums addressed by Quantum Mechanics
+    'Particles' follow 'paths' with different probabilities. Luminous fringes form where probabilities are highter, dark fringes where probabilitieis are lowest
+
+De Broglie Wavelengths
+    Actually, all particles may be thought of as being 'waves'. The wavelength depends on the 'momentum (p)' of a particle (usually,, its mass times its velocity). 
+    For an electron, its wavelengths is about the size of it's orbit around the atom
+    Electrons occilate around the neucleus, but can be out of sync with each other
+
+Formation of Spectral Lines
+    Absorption can boost an electron to the second (or higher) execited state
+    Absorption spectrum: Created when atoms absorb photons of right energy for excitation
+    Multielectron atoms: Much more complicated spectra, many more possible states
+    Ionization changes energy levels
+    Emission lines can be used to identify atoms
+
+Modern Spectrographs
+    
+
+Telescopes
+
+Planar Waves
+    Light recieved from a very distant object behaves like "planar waves"
+    These may also be represented by parallel "rays" 
+
+Lenses and Telescope
+    A simple telescope is a refracting lense
+    Recall Fermat's Principle. Rays follow paths that minimize the time it takes to reach the focus.
+
+Optical Telescopes
+    Images can be formed through reflection or refraction
+    A reflecting (parabolic) mirror may be used as a telescope
+    The parabolic shape is critical. A spherical mirror is not able to produce images
+    The Hubble Spaec Telescope (HST) provides a sobering example
+        Mirror was shaped incorrectly
+    Reflecting and refracting telescopes
+    Telescopes are "light buckets" used to gather as much light as possible
+    Modern telescopes are all reflectors. Why?
+        Light traveling through lens is refracted differently depending on wavelength
+        SOme light traveling through lens is absorbed
+        Large lens can be bery heave, and can only be supported at edge
+        A lens needs two optically acceptable surfaces; mirror needs only one
+
+Refracting Telescopes (lenses)
+    Yerkes Observator has a 40" diamater lense, the largest in the world. It was built in 1890 and is still used today
+
+Reflecting Telescopes (mirrors)
+    The Keck telescope, a 10m-diameter optical telescope sited as the summit of Mauna Kea
+    Keck uses a segmented mirror in order to improve its shape control and to accommondate it to atmospheric fluctuations
+
+
+
+
+
