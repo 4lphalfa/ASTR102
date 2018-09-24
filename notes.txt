@@ -520,3 +520,109 @@ Reflecting Telescopes (mirrors)
 
 
 
+==========
+2018-09-24
+==========
+
+Kirchhoff's laws
+    In the absorption spectrum, emission lines are still there but are so faint that they look dark
+    
+Optical Telescopes
+
+Chromatic Aberration
+    can be resolved for two colours simultaneously, but not for three
+
+Optical Telescopes
+    The Hubble Soace Telescope has a variety of detectors:
+        Ultraviolet
+        Infrared
+    The Hubble Space Telescope's main mirror is 2.4m in diameter and is designed for visible, infrared, and ultraviolet radiation
+
+Telescope Size
+    Light Gathering Power: Improves detail by allowing fainter features to be observed
+    Brightness of an image proportional to square of radius of mirror. A 5m telescope observe and object 25x faster than a 1m telescope
+
+Diffraction limit
+    The wavelength of light and the telescope size determine the resolution power of a telescope
+    Diffraction limits the resolution of radio telescopes
+    Larger wavelengths causes more diffraction
+
+Telescope Size
+    Resolving power: when better can distinguish objects better...
+
+The Largest telescopes on earth
+    Mauna Kea in Hawaii
+        Gemini-north
+        Canada-France-Hawaii
+        Keck 1&2
+        Subaru
+    The Gran TeCan(10.4m) - La Palma
+    ESO VLT - Paranel, Chile 
+    Magic Telescopes - Largest gamma ray telescopes - 17m
+
+Images and Detectors
+    Image acquisition: charge-coupled devices (CCDs) are electronic devices, which can be quickly read out and reset
+    Image processing by computers can sharpen images
+
+Atmospheric Effect
+    Atmospheric bluring is due to air movements (Turbulence")
+    This is why stars 'twinkle' -- limits the resolution of ground based optical telescopes
+        "Seeing" - Atmospheric turbulance (Lower is better)
+
+High Resolution Astronomy 
+    Solutions:
+        Put telescopes on mountaintops, especially in deserts
+        Put telescopes in space
+    Adaptie optics: control mirrors based on temperature and orientation
+
+Adaptive optics
+    Distorted wavefronts are reflected by an adaptive distorting mirror
+    Some of the wavefronts are sent to a sensor to analyze the distortion
+    This sensor configures the adaptive distorting mirror in real time
+
+High Resolution Astronomy
+    Adaptive optics: track atmospheric changes with laser; adjust mirrors in real time
+
+Active optics
+    the mirror's own weight will cause it to deform. The telescope will correct for this once it is in a set position.
+
+Radio Astronomy
+    Radio telescopes
+        similar to optical reflecting telescopes
+        Radio wavelengths are about a million times longer than visible light
+        Less sensitive to imperfections (due to longer wavelengths); can be made very large
+    Largest radio telescop eis the 300m dish at Arecibo, Puerto Rico
+    Lower wavelength means poor angular resolution
+    Advantages of radio astronomy
+        can oberve 24 hours a day
+        can observe through clouds, rain, etc
+        observes at a completely different frequency; different info
+
+Diffraction limit
+    The wavelength of light and the telescope size determine the resolution power of a telescope
+    Diffraction limits the resolution of radio telescopes
+    
+Interferometry
+    Combines info from several widely spread radio telescopes as if it came from a single dish
+    Resolution will be that of dish whose diameter = largest separation between dishes
+    Can get radio images whose resolution is close to optical
+    Interferometry can also be done with visible light, but is much more difficult due to shorter wavelengths
+    
+The ALMA Array
+    Resolution can be improved with 'arrays of telescopes"
+    The ALMA Array is a set of 66 radiotelescopes located in norther Chile, which detect radiation with wavelengths between 0.3mm and 10mm
+    The antennas are mobile
+
+Resolution is worse with long-wave light, so radio telescopes must be large to compensate
+
+Space Based Astronomy
+    Ground based observations in the far infrared, microwave, ultraviolet, x-ray, and gamma ray bands is difficulty or virtually impossible because the atmosphere absorbs much of the radiation
+    These observations are carried out from either stratospheric ballons or satellites
+    Ultraviolet observing must be done is space, as the atmosphere absorbes almost all ultraviolet rays
+    X-rays and gamma rays will not reflect off mirrors as other wavelengths do; need new techniques
+    X-rays will reflect at a very shallow angle and can therefore be focused
+
+
+
+
+
