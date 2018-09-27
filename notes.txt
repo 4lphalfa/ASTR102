@@ -626,3 +626,163 @@ Space Based Astronomy
 
 
 
+==========
+2018-09-27
+==========
+
+Ch 16 The Sun
+The Source of essentially all energy sources on the Earth
+
+"A star like many others..."
+    Understanding the sund means understanding also other stars
+    Laws of Physics are the same in other parts of the universe
+    We are not "priviledged observers"
+    There must be physical reason for why the Sun is the way it is
+Our Sun is a red/white
+
+The Astronomical Unit
+    Average distance between the Earth and the Sun
+
+The Habitable Zone
+    Where liquid water can exist
+
+The Scales of the Solar System
+    The Sun is aprox 109 Earth diameters, 300x the Earth's mass
+
+Physical Properties of the Sun
+    Radius: 700000 km
+        Trig may be used to infer it from the Sun's apparent size and it's distance to Earth
+        Sun's distance to earth may be inferred from Moon's Distance and radius since they have similar angular size
+        Moon's distance may be measured through parallax (2 observers measure position at the same time)
+    Mass: 20x10^30 kg
+        Derived from Newton's laws; uses the orbital period of earth and the distance sun-earth
+        the force keeping the Earth in orbit is the gravity of the Sun (G is Newton's gravitational constant
+            M = rv^2/G
+    Density: 1400 kg/m^3
+    roation: Differential, period about a month
+        Equator rotates quicker than the poles
+    Surface temp:
+        Apparent surface is called 'photosphere'
+
+Sunspots
+    Sun's rotation may be measured tracking 'sunspots'. These are dark spots caused by magnetic storms on the Sun's 'photosphere'
+    
+Physical Properties of the Sun
+    Luminosity: Total energy radiated by the Sun -- can be calculated from the fraction of that energy that reaches Earth
+    Solar Constant: amount of Sun's energy reaching Earth -- is 1400 W/m^2
+    Total lumonosity is about 4x10^26 W -- the equivalent of 10 billion 1-megaton nuclear bombs per second
+
+Physical Properties of the Sun: the Solar Constant
+
+The Solar Interior: What keeps the sun in equilibrium
+    Mathmatical models, consistent with observations and physical principles, provide information about the Sun's interior
+    ...
+
+The Solar Interior
+    Doppler shifts of solar spectral lines indicate a complex pattern of vibrations. The Sun "boils"
+    This may be used to construct a "sonogram" of the Sun. 
+
+Physical Properties of the Sun
+    Interior structure of the Sun:
+        Core
+            nuclear fusion takes place here
+        Radiation Zone
+            transparent to radiation
+        Convection Zone
+        Photosphere
+            dense enough to produce black body spectrum, but low enough density so that energy can escpae
+        Chromosphere
+            lower atmosphere of the Sun
+        Transition Zone
+            transitions from lower temp to higher temp
+        Carona
+
+The Solar Interior
+    Solar density and temperature, according to the standard solar model
+    Energy Transport:
+        The radiation zone is relatively transparent; the cooler convection zone is opaque
+        Photons are constantly being absorbed and then re-emitted
+        Can take from a thousand to a million years to escape
+    The visible top layer of the convection zone is granulated, with areas of upwelling material...
+
+The Sun's Atmosphere
+    Spectral analysis can tell us what elements are present, but only in the chromosphere and photosphere of the Sun. This spectrum has lines from 67 different elements.
+    These lines are produced by cool, low-density gas "clouds" on top of the Sun's "surface" -- the photosphere
+
+The Composition of our Sun
+    Mostly hydrogen and helium
+    Elements like iron have very strong absorption lines
+    Hydrogen and helium do not have strong absorption lines
+
+Cecilia Helena Payne Gaposchkin (1900-1979)
+    Temperature and pressure affects the strength of the spectral lines
+    Contrubuted to the discovery of the makeup of the Sun and other stars
+
+The Sun's Atmosphere
+    The cooler chromosphere is above the photosphere
+    Difficult to see directly, as photosphere is too bright, unless moon covers photosphere and not chromosphere during eclipse.
+    Small solar storms in chromosphere emit spicules
+
+The Sun's Atmosphere
+    Solar corona can be seen during eclipse if both photosphere and chromosphere are blocked
+    Corona is much hotter than layers below it -- must have a heat source, probably electromagnetic interactions
+
+Solar Magnetism
+    Sunspots: Appear dark because slightly cooler than surroundings (by about 1000 degrees)
+    Sunspots come and go, typically in a few days
+    Sunspots are linked by pairs of magnetic field lines
+    Sunspots originate when magnetic field lines are distorted by Sun's differential rotation
+        Every 11 years, the magnetic fields flip, 22 years for a full rotation
+        The uneven spin of the Sun distorts the magnetic field
+        If a loop occurs near the edge of teh sun, we see it as a prominence
+        Which hemisphere affects the direction traveled of the magnetic field
+    The SUn has an 11-year sunspot cycle, during which sunspot numbers rise, fall, and then rise again
+
+The Active Sun
+    Areas around sunspots are active; large eruptions may occur in photosphere
+    Solar prominence is large sheet of ejected gas
+    Solar flare is a large explosion of Sun's surface, emitting a similar amount of energy to a prominence, but in seconds or minutes rather than days or weeks
+    Coronal mass ejection occurs when a large "bubble" detaches from the sun and escapes into space
+
+Solar Wind
+    High above the photosphere, charged particles (electrons, protons, helium nuclei) escape the sun
+    The sun's upper atmosphere is constantly evaporating and being replenished
+    Every second, 2 million tonnes of matter are carried away by winds
+    The sun has been doing this for 4.6 billion(?) years
+
+What is responsible for the corona's higher temperatures far from the surface
+    The suns' magnetic field acts like a pump and sends particles up
+
+The Heart of the SUn
+    Given the sun's mass and energy production, we find that, on the average, every kilogram of the sun produces about 0.2 milliwatts of energy
+    This is not much ....
+    ....
+    Nuclear fusion is the energy source for the Sun
+    In general, muclear fusion works like this:
+        nucleus 1 + nucleus 2 -> nucleus 3 + energy
+    But where does the energy come from?
+    It comes from the mass; if you add up the masses of the inital nuclei, you will find the result is more than the mass of the final nucleus
+    The relationship between ....
+    ....
+    Nuclear fusion requires that like-charged nuclei get close enough to each other to fuse. 
+    But like chages repel each other
+    This can happen only if the temperature is extremely high -- over 10 millin K
+
+What holds nuclei together
+    Strong Force
+        What holds the stuff together
+    Electromagnetic force
+    Weak Force
+        Responsible for radioactive decay
+    Gravity
+
+Fusion: The Basics
+    Hydrogen
+    Deuterium (Heavy Water, one neutron)
+    Tritium (two neutrons)
+    Helium
+
+
+
+
+
