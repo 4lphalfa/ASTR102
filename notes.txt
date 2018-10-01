@@ -786,3 +786,135 @@ Fusion: The Basics
 
 
 
+==========
+2018-10-01
+==========
+
+The Colour of the sun (Lym colour effect)
+    When we look into the photosphere, the deeper we go the hotter it is
+    When we look at the edge, we see more of the cooler photosphere
+
+
+The Heart of the Sun
+    Nuclear fusion is the energy source for the sun
+        Fuses hydrogen into helium, reduced mass becomes energy
+    Requires that like-charged particles get close enough to fuse
+    But like charges repel each others
+    This can happen only if the temperature is extremely high -- over 10 million K
+    This is called the strong force
+    The image depicts proton-proton fusion. In this reaction:
+        proton + proton -> deuteron + positron + neutrino
+    The positron is just like the electron except positively charged: the neutrino is also related to the electron but has no charge and very little, if any, mass
+    In more conventional notation
+        1H + 1H -> 2H + positron + neutrino
+    This is the first step in a three-step fusion process that powers most stars: The P-P Chain
+        4 protons fuse to make Helium-4
+    The ultimate result of the process:
+        4(^1H) -> ^4He + energy + 2 neutrinos
+    The helium stays in the core
+    The energy is in the form of gamma rays, which gradually lose their energy as they travel out from the core, emerging as visible light
+    The neutrinos escape without interacting
+    The energy created in the whole reaction can be calculated by the difference in mass between the initial particles and the final ones -- for each interaction it turns out to be 4.3x10...
+
+Neutrinos
+    Neutrios are tiny, almost massless, neutral particles produced by nuclear fusion
+    They travel near the speed of light and barely ever interact with anything! (They can travel through a light year of lead and not interact with any atoms)
+
+Observations of solar neutrios
+    Neutrinos are emitted directly from the core of the Sun and escape, interacting with virtually nothing. 
+        Being able to observe these neutrinos would give us a direct picutre of what is happening in the core
+    Unfortunately, they are no more likely to interact with earth-based detectors than they are with the Sun; 
+        the only way to spot them is to have a huge detector volume and to be able to observe single interaction events
+    Typical solar neutrino detector resolution is very poor
+    Detection of solar neutrinos has always been a deficit in the type of neutrinos expected to be emitted by the sun
+    Recent research...
+
+How long do protons take to escape the sun
+    hundreds of thousands to millions of years
+
+
+Ch17 Measuring the Stars
+    
+The Solar Neighbourhood
+    To decide which stars are intrinsicall brighter we nned to measure their distances.
+    Remember parallax?
+        The closer the object, the greater the parallax shift
+    Triangulation
+    Parallax
+        Half the angle shift is the parallax angle
+
+GAIA Spacecraft currently mapping Milky Way galaxy
+    GAIA will map 3d positions over 1 billion stars
+    This represents only 1% of the stars in the Milky Way
+
+Arcseconds and Parsecs
+    1 Degree = 3600 arcseconds = 3600" (like one hour is 3600 seconds)
+    60 arcseconds = 1 arcminute = 1'
+    1 parsec (pc) is the distance of a star if its measured parallax angle is exactly one arcsecond (about 3.3 light years)
+    ...
+
+The Solar Neighbourhood
+    Nearest star to the Sun: Proxima Centauri, which is a member of the three-star system Alpha Centauri complex
+    To get an idea: if Sun is a marble, Earth is a grain of sand orbiting 1 m away, the nearest star is another marble 270 km away
+    Solar system extends about 50 m from Sun; rest of distance to nearest star is basically empty
+
+Oort cloud, edge of our solar system
+
+Stellar Proper Motions
+    Some stars may also move relative to other fixed objects on the sky: this is called proper motion
+    Barnard's star has the largest proper motion of any star -- proper motion is the actual shift of the star in the sky, after correcting for parallax
+
+Actual Motion of the Alpha centauri complex
+    Radical velocities are measured from the Doppler shift of spectral lines
+    Tangential velocities are inferred from the star's distance and proper motion
+
+Stellar Paralax can be used to measure the distance of stars
+A star's real space motion combines its apparent proper motion with its radial motion toward or away from earth
+    A star's proper motion is the annual apparent motion across the sky
+
+Luminosity and Apparent Brightness
+    Luminosity is a measure of the total power (energy per unit time) radiated by a star
+    Apparent brightness is how bright a star appears when biewed from earth: it depends on the absolute brightness but also on the distance of the star. It is a measure of 'energy flux'
+    * Luminosity passing through each spear is the same
+    * Area of sphere: 4(pi)r^2
+    * Divide luminosity by are subtended by telescope to get brightness
+    (Light obeys the inverse square law)
+    If we know a star's apparent brightness and its distance...
+
+Aparent Magnitudes
+    The magnitude scale is the system we use to describe how bright a given objects is 
+    Hipparchus came p with this system completely by eye
+    He rated stars on a scale from 1-6
+    1 = bright, 6 = faint
+    (but now we use all real numbers)
+    A difference of 5 magnitudes (1 to 6) corresponds to a factor of 100 change in brightness
+    So an object of magnitude 1 is 100 time brighter than a magnitude 6...
+    ...
+
+Apparent Magnitude - examples
+    A star of magnitude 1 is 2.51 times brighter than a star of magnitude 2
+    A star of magnitude 2 is 2.51 times brighter than a star of magnitude 3...
+    Verify: Magnitude 6 to magnitude 1 = factor of 100 brightness
+        2.51^ = 100
+    ...
+
+Aboslute Magnitudes
+    The Absolute Magnitude is the magnitude an object would have if the object was 10pc away (33 light years)
+    The absolute magnitude puts objects at an equal distance so we can compare their actual brightnesses (Luminisoty)
+    We only use the absolute magnitude to compare objects to one another
+
+Magnitude Scales
+    Apparent luminosity/brightness is measured by astronomers using a magnitude scale, which is related to our perception
+    It is a logarithmic scale; a change of 5 in magnitude corresponds to a change of a factor of 100 in apparent brightness
+    It is also inverted -- larger magnitudes are dimmer
+
+Magnitude Summary
+    Apparent magnitude is the brightness of the star as seen from earth
+    Absolute magnitude is the brightness a star would have a distance of 10 parsecs
+    ....
+
+
+
+
+
+
