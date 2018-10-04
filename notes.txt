@@ -918,3 +918,126 @@ Magnitude Summary
 
 
 
+==========
+2018-10-04
+==========
+
+Magnitude Scales
+    Apparent luminosity/brightness is measured by astronomers using a magnitude scale, which is related to our perception.
+    It is a logarightmic scale; a change of 5 in magnitude corresponds to a change of a factor of 100 in apparent brightness
+    It is also inverted -- larger magnitudes are dimmer.
+
+Magnatude Summary
+    Apparent and Absolute Magnitudes
+        Apparent is the brightness of the star as seen from the Earth
+        Absolute is the brightness a star would have at a distance of 10 parsecs
+            Measure intrinsic brightness or luminosity
+
+Magnitude to Luminosity conversion
+    Converting from magnitude to luminosity in solar units: this graph allows us to perform this conversion simply by readiong horizontally. 
+    A reduction of 5 in magnitude corresponds to an increase in a factor of 100 in luminosity, as it should.
+
+Stellar Temperatures
+    The color of a star is indicative of its temperature.
+    Red stars are relatively cool, where as blue ones are hotter.
+    Why?
+        Hotter is shorter wavelength, cooler is longer
+    The radiation from stars is blackbody radiation.
+    The blackbody curve is not symmetric
+    Observantions at two wavelengths are enough to define the temperature
+        Only need 2 measurements
+        Tells us about the temperature of the object
+    Stellar spectra are much more informative tha the blackbody curves
+    There are seven general categories of stellar spectra, corresponding to different temperatures
+    From highest to lowest, those categories are
+        O B A F G K M
+        Only Boring Astronomers Find Gratitude Knowing Mnemonics
+    Characteristics of the spectral classifications
+        ...
+
+Stellar Sizes
+    A very few large, very close stars can ve imaged directly using speckle interferometry.
+    Stellar radii vary widely
+    Stars come in many different sizes: dwarfs, subgiants, supergiants, etc
+    For the vast majority of stars that cannot be imaged directly, size must be inferred from their luminosity and temperature
+    Stars...
+    ...
+
+Estimating Stellar Radii
+
+The Hertzsprung-Russell Diagram
+    distinctly see there are populations of stars
+    What can one do with luminosities and temperatures?
+    The H-R diagram plots stellar luminosity agaisnt surface temperature
+    Once many stars are plotted on an H-R diagram, a pattern begins to form
+    The darkened curve is called the main sequence, as this is where most stars are
+    Also indicated is the white dwarf region: these stars are hot but not bery luminous
+    Two other categories, red giants and the blue giants
+    Clearly, the brightest stars in the sky appear bright because of their enoumous ...
+    About 90% of stars lie on the main sequence; 9% are red giants and 1% are white dwarfs
+    But why do stars distribute themselves this way...
+
+H-R plots stars based off of luminosity and temperature (brightness and colour)
+
+Extending the Cosmic Distance Scale
+    Spectroscopic Paralax: Has nothing to do with parallax, but does use spectroscopy in finding the distance to a star
+    1. Measure the star's apparent magnitude and spectral class
+    2. Use spectral class to estimate luminosity
+    3. Apply inverse-square law to find distance
+    Spectroscopic parallax can extend the cosmic distance scales to several thousand parsecs
+        More theoretical, not nearly as precise (10-20% accurate)
+    The spectroscopic parallax calculation can be misleading if the star is not on the main sequence. The width of spectral lines could be used to define luminosity classes.
+    in this way, giants and supergiants can ve distinguished from main-sequence stars
+
+Stellar Masses
+    Determining of stellar masses:
+        Many stars are in binary pairs; measurement of their orbital motion allows determination of the masses of the stars
+        Visual binaries can be measured directly
+    Spectroscopic binaries can be measured using their Doppler shifts
+    Finally, eclipsing binaries can be measured using the changes in luminosity. This is the same as one of the methods used to discover extrasolar planets
+    Mass is the main determinant of where a star will be on the main sequence
+        Higher luminosity = higher mass = higher temp (For stars on the main sequence)
+
+Stellar Lifetimes
+    Mass is also related to stellar lifetime
+        the higher the mass, die very quickly
+    So the most massive stars habe the shortest lifetime -- they have a lot of fuel, but burn it very quickly
+
+
+Ch18 - Read the first 3 sections
+
+Ch18 The Interstellar Medium
+
+The Interstellar Medium
+    Interstellar gas cloud (nebula) visible to the naked eye: the Orion Nebula
+    A wide-angle view of the Milky Way -- the dark regions are dust clouds, blocking light from the stars beyond
+
+    The interstellar medium consists of gas and dust
+    Gas is atoms and small molecules, mostly hydrogen and helium
+    Dust is more like soot or smoke; arger clumps of particles
+    Dust absorbs light, and reddens light that gets through
+    Reddening can interfere with blackbody temperature measurement, but spectral likes do not shift
+    
+Light Absorbtion
+    This image illustrates how reddening works. On the right, the upper image was made using visible light; the lower wa made using infrared
+        the light that goes through the cloud absorbs more light at shorter wavelengts
+The Interstellar Medium absorbs light more strongly as shorter wavelengths
+
+Interstellar Matter
+    Nebulae that appear as dark nenbule in the optical, can shine brightly in the infrared due to blackbody radiation from the warm dust
+
+    Interstellar dust grains are complex in shape (left)
+        We don't know what they are made up of (when we look at the spectra, heavy elements are missing)
+        generally the dust grains are elongated
+        Light that passes through them are polarized
+        for some reason they are all alinged in the same orientation
+            thought to be because the milky way galaxy has its own magnetic field
+            the particles become magnitized and are alinged
+
+What happens to the visible light when it passes through interstellar dust
+    Dimmed and reddened
+
+
+
+
+
