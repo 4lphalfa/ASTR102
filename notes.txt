@@ -1041,3 +1041,122 @@ What happens to the visible light when it passes through interstellar dust
 
 
 
+==========
+2018-10-11
+==========
+
+"Nebula" is a general term used for fuzzy objects in the sky:
+    Dark Nebula: Dust Cloud
+    Emission Nebula: glows, due to hot stars
+
+Emission Nebulae
+    Usually glow red because of the H_(alpha) line
+    How nebula work
+        Reflections Nebula: reflecting the light of a newborn stars off of a dust cloud
+
+There is a strong interaction between the nebula and the stars within it; the fuzzy areas near the pillars are due to photoevaopatioin (due to solar wind)
+
+
+Emission Nebulae
+    Composed of hydrogen (90%), helium (9%), and other trace elements
+    Within the molecular clouds, the trace elements form into dust grains 
+    "Forbidden" are emission lines that we cannot see in standard laboratory conditions (best vaccum cannot replicate space)
+        A forbidden transition in oxygen is responsible for the gree colour in the Orion Nebula
+
+Dark Dust Clouds
+    The are cold (few tens of Kelvins)
+    Asorb visible light and emit radio wavelengths
+    Light from a star always passes through material before we see it
+        This can change the spectra of the star
+
+21-Centimeter Radiation
+    When you take a charged particle and move it in a circle, it creates a magnetic field perpendicular to the spin
+    Depending on how an electron spins
+        The same way with the proton will create more energy
+    We can use this to map the distribution of hydrogen in galaxies
+    
+~~ Midterm Prep Ends Here ~~
+
+
+Ch19 Star Formation
+
+Star-Forming Regions
+    For some reason, thes dust clouds begin to contract under its own gravatational force; as it collapses, the center becomes hotter and hotter until nuclear fusion begins in the core
+    The gas has a temperature, and the particles have a pressure
+        This is true for interstellar gas
+    For a small cloud, it does not have enough pressure to collape
+        But for bigger clouds this does happen
+
+Competition in Star Formation
+    Rotation can interfere
+    Magnetism can interfere
+    Can condense in a distorted way
+
+The Formations of Stars like the Sun
+    Important to start cold because this means the pressure is low and can collapse
+    At 10000000 K stars become powered by nuclear fusion
+
+    Stage 1
+        Triggered by some external influence
+            Another star goes supernova which compresses the gas
+            Stellar winds
+        The cloud begins to fragment until you get small individual clumps
+            These will be individual stars
+
+    Stage 2
+        The cloud will continue to collapse until the cloud pressure is enough to prevent the could from fragmenting further
+
+    Stage 3
+        Then the could will collapse itself
+
+    Stage 4
+        The protostar will get so dense at the center to start to have a photosphere
+        It will become opaigue
+        The heat will no longer dissapate and is trapped inside the star, heating up the star's core
+
+    The star will continue to collapse until it reaches an equilibrium state
+    As the star is collapsing, it's still waiting to reach equilibrium and eventually gets so hot that nuclear fusion begins
+
+    Stage 6
+        The star is born
+
+Stars of other Masses
+    Stars that have higher masses means the cloud it was formed from was higher mass
+        and the process happens faster
+
+Observations of Clouds Fragments and Protostars
+    
+Could Collapse and Accretion Disks
+    If we have a cloud, it will have some sort of motion
+        Conservation of angular motion applies
+    When you compress a cloud, it will spin up massively
+    When collapsing, it will conserve angular momentum
+        A disk will form around the core
+    On the poles, there is no angular momentum to conserve, so it will fall into the core
+    When the winds get strong enough, it will blow away the disk
+        Before this, the disk will focus the winds and force them out of the poles (Bipolar outflows)
+
+Observations of Jets
+    
+Shockwaves and Star Formations
+    These strong winds can cause other star formations
+    Other Triggers:
+        Death of another star
+        Supernova
+        Density waves in galatic spiral arms
+        Galaxy collisions
+
+Star Clusters
+    Stars don't form in isolation
+    Clusters are nice for studying because they form at the same time and they are at the same distance
+    The differences between open and globular clusters are the globular clusters are very old
+    The presense of the really big stars can influence how the others evolve
+
+Eta Carinae
+    The upper mass limit of what a star can be
+    Produces so much energy that it almost blows itself up
+
+
+
+
+
