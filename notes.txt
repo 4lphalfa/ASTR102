@@ -1160,3 +1160,145 @@ Eta Carinae
 
 
 
+==========
+2018-10-15
+==========
+
+'Burning' fusing elements together
+
+Eta Carinae
+    ~150 times the mass of our sun (for the main star)
+    ~80 time the mass of our sun (for the smaller star)
+
+
+Ch20 Stellar Evolution
+
+All stars are formed from a collapsing interstellar cloud
+
+When it gets to the main sequence, it stays stable for a very long time
+
+The bigger the star, the faster it evolves
+
+Burn helium in their core and become red giants
+
+Stars burning in the main sequence burn hydrogen in their core
+
+Hydrogen Fusion
+    for stars like our sun, they use the P-P chain
+    This process releases gamma ray energy
+        the resulting helium ways less than the starting ingredients, the loss of mass was converted into energy
+
+Hydrostatic Equilibrium
+    It takes time for the energy to escape from the core
+    pressure outwards vs gravity inwards
+    Red giants happen because the energy can escape before it reaches equilibrium
+    At equilibrium, all the energy comming from the protosphere is equal to the energy coming from the core
+        if the energy released is less than the energy coming from the core, the energy is being absorbed somewhere
+        What happens when it increases/decreases
+
+Leaving the main sequence
+    When large stars run out of fuel, the have a violent death
+    When a lower mass star runs out of fuel, there will be an inbalance and puff ut
+
+Everything on earth comes from the higer mass stars
+
+Red Dwarf Stars
+    they are all convective
+    This means that when hydrogen is fused into helium, it is constantly replenishing their store of hydrogen
+        This is why they live a long time
+    Because of convection, they use all of their hydrogen
+    They are very faint
+
+Heat Transfer of Stars
+    <0.5 solar masses are only have convection
+    0.5-1.5 are radiation to convection
+        the fuel in the core is the only fuel it has
+    >1.5 are convection to radiation
+        bigger, but still limited fuel supply
+
+Core Evolution of a Sun-like star
+    in the beginning of the main sequence mostly hydrogen
+    then the hydrogen is turned into helium
+    finally at the end of the main sequence, not hydrogen at the core, only helium which expands outwards from the core
+
+Life Track of a Sun-like star
+    When the core is only helium, it is not hot enough to fuse helium together
+        the nuclear reaction stops and everything collapses
+        not outward energy production
+        becomes more dense and heats up
+            the hydrogen is still burning around an inert core
+            the star gets even hotter
+                its producing so much energy that the star starts to puff up and cool off
+                from main sequence to red giants
+                reaches a point where it fuses helium
+
+Core Hydrogen Runs Out
+    We then have this helium core (nonburning helium ash)
+        this compresses that the particles begin to squish up against each other
+
+Degenerate Cores Broken Thermostat
+    No more room left between the particles
+    its so compressed but gravity still pushes down on it
+
+Electron Degeneracy
+    If you think of electrons like these plastic balls, if you drop something large on them, they will break
+    When the core becomes like this, it does not grow
+Every electron can be paired with another (phase lock)
+
+Helium Fusion
+    When the temperature becomes hot enough, it can fuse and become Be, which can fuse with another He to become Carbon
+
+The Helium Flash
+    When the temperature in the core his hot enough for helium fusion
+        it starts explosively, and burns through it in minutes
+        it can push the particals appart
+        transitions to the horizontal branch
+
+Back to the Giant Branch
+    transitions to a carbon core, with a helium burning shell, with a hydrogen burning shell
+    about to die
+
+Asymptotic Giant Branch
+    Does not have enough mass to fuse the carbon, so star becomes unstable
+    occilations happen, each time material is shedded away
+    gets to a point where it blows itself up
+        reaches excape velocity and creates a planetary nebulaa
+
+Planetary Nebula
+    The white dwarf stars is the carbon core
+        the other layers were blown away
+    This is the best case scenario
+
+Planetary Zoo Nebula
+    they can have many weird shapes
+    the central star is not fusing, but its cooling
+        its still hot and produces UV light while cooling down
+            ionizes and produces somethning like an emission nebula
+
+White Dwarfs
+    around half the mass of the sun at the size of the earth
+
+The Death of a Low Mass Star
+    cools and becomes a black dwarf
+    fades away
+    Turnoff: running out of hydrogen, starting its death sequence
+
+The brightest star Sirius is a binary system
+    Its companion is a white dwarf
+
+Evolution of Stars More Massive than the Sun
+    Burn helium to form carbon
+    Will become a gian and then a white dwarf
+    A star around 4 solar masses are still not heavy enough to burn carbon, but it does not become degenerative either
+        there is enough energy being produced that the core is still fluid
+    Evolution is more horizontal on the H-R diagram
+    At a solar mass of 10, it can start fusing carbon
+
+A Different Evoltion
+    1x10^8K in their core (to burn helium)  
+    6x10^8K in their core (to burn carbon)  
+
+
+
+
+
