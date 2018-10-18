@@ -1302,3 +1302,133 @@ A Different Evoltion
 
 
 
+==========
+2018-10-18
+==========
+
+Midterm
+    Multipe Choice
+    Everything up to and including Interstellar Medium
+    48 Questions
+
+
+Heat Transfer of Stars
+    
+Core Evolution of a Sun Like Star
+    All the hydrogen in used up in the core
+
+Life Track of a Sun-Like Star
+    When their hydrogen runs out in the core, the star collapse and becomes denser until it can fuse helium
+    Electron Degeneracy Pressure
+
+Core Hydrogen Runs Out
+    
+The Helium Flash
+
+Planetary Nebula
+    Outer layers are blown off leaving only the core
+
+White Dwarfs
+    
+The Death of a Low-Mass Star
+    cold floating sphere of carbon
+
+Evolution of Stars More Massive than the Sun
+    Will never become degenerate
+    Are large enough to potentially fuse carbon+
+
+A Different Evolution
+    Main division 8 Solar masses
+        hot enough to fuse carbon 6x10^8 K
+    There are different fusion process in differently sized stars
+        (Don't worry about knowing the exact process steps)
+    The CNO is more efficient that the P-P chain at higher masses(?)
+
+CNO Cycle
+    Carbon ends up being recycled in the process
+    Spits out helium
+
+Evolution of Stars More Massive than the Sun
+    Hoter to start with, but the process happens faster
+    Lives shorter lives because of this
+
+Zig-Zags
+    The star runs out of one material and starts burning another one
+    Their liminosity doesn't change, but the sizes change
+
+Short Lifetimes
+    
+Inside an Evolved Massive Star
+    Layers of different elements with the heaviest in the core
+    Phases get faster as you get closer to the core (H slower then Fe)
+
+Evolution of Stars More Massive than the Sun
+    Some stars loose mass when they're evolving
+
+    Solar Masses    -   Final State
+    Less than 0.08  -   Brown Dwarf (Hydrogen)
+    0.08-0.25       -   Helium White Dwarf
+    0.25-8          -   Carbon-oxygen White Dwarf
+    8-12(aprox)     -   Neon-oxygen white dwarf
+    >12             -   Supernova (Ch 21)
+
+Mass Loss from Giant Stars
+    
+The End of a High-Mass Star
+    The core will be layers of different elements
+    Degenerative is a different state of matter
+
+Iron is the end of the road
+    Iron happens to be the most stable configuration for a neucleus
+    Iron will require energy to fuse
+    When it absorbs energy, there is a catastrophic collapse of the star
+
+The End of a High-Mass Star
+    The core becomes the next element
+    compresses and heats up and begines the next cycle
+    When it reaches Iron, the star will collapse in on itself
+        There is so much pressure, it overwhelms the degeneracy pressure, producing a neutron and a neutrino
+
+Supernova Explosion
+    Instead of a white dwarf, we end up with a core with pure neutrons
+    Get a really dense core that isn't producing any energy
+    everything falls in on the core, becomes compressed and rebounds becoming a supernova
+
+2 Kinds of Supernovae
+    Type II: What we just described with the iron core
+    Type I: Deals with white dwarf stars
+        In a binary system, the higher mass star will evolve faster creating a white dwarf
+        The smaller star will eventually evolve into a red giant, and will expand out to the 2nd star
+        The white dwarf will pull material, eventually fusing the star and blowing itself up
+
+Stellar Evolution in Binary Systems
+    Lagrangian Point: where the gravitational forces are equal
+    When a star expands into another star's Roche Lobe, the other star can capture the material
+
+Binary Mass Transfer
+    the smaller star becomes a blue giant, leaving the other as a red supergiant
+    The evolution of is being impacted
+
+Life after Death for White Dwarfs
+    If the companion was instead a white dwarf, the white dwarf will be compressed by the transfered material and build up a layer of hydrogen around the white dwarf
+        Fusion can be ignited, and explode
+        This is called a nova and can happen repeatedly
+
+Repeated Novae
+    Everytime it goes through this cycle, it gains a little mass
+    Once it reaches a certain size 1.4 solar mass, the star become too massive for solar degeneracy, and the star will blow itself up -> Type I Supernova
+
+Observing Stellar Evolution in Star Clusters
+    As the stars are being born, they will heat up and transition to the main sequence
+    As the cluster evolves will evolve off the main sequence early on
+        Happens so quickly that the low mass stars are still forming
+    Lower mass stars start to run out of hydrogen - The main sequence turnoff (Tells us how old the stellar population is)
+    As the cluster ages, the lowest mass stars will make it onto the main sequence
+    The main sequence turnoff is making its way slowly down the main sequence, red/blue giants are starting to form
+    Even ater 10 billion years, low mass stars are still on the main sequence
+
+    Blue stragglers come from merging stars
+
+
+
+
