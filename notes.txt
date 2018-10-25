@@ -1432,3 +1432,130 @@ Observing Stellar Evolution in Star Clusters
 
 
 
+==========
+2018-10-25
+==========
+
+The star burns hydrogen on the main sequence for most of it's lifetime
+When the hydrogen runs out in the core, the star enters a new phase in its life, and the begining of death
+A star like the sun will become a red giant, the size of the Earth's orbit, It will eventually die and become a white dwarf
+
+Once the core reaches Iron, it starts to implodes, rebounds, and a supernova is formed
+
+
+Ch21 Stellar Explosions
+
+Life after Death for White Dwarfs
+    A noa is a star that flares up very suddenly and then returns slowly to its former luminosity
+    
+    most stars have a companion
+    If the stars are close enough together, the heavier will go through its lifecycle quicker, turning into a white dwarf
+    The smaller star will turn into a red giant
+    When it gets bigger than the system's lagrage point, its exterior will be dumped onto the white dwarf
+    Once it reaches a certain density, it will explosively fuse all at once expelling its surface, a nova
+
+    Will produce jets coming out of the excretion(?) disk
+
+Novae and Supernovae
+    Two totally different phenomenon
+        Supernovae are much brighter
+
+    Novae
+        Less energy
+        occurs multiple times
+    Supernovae
+        100x brighter
+        Can only happen once, it destroys the star
+
+Carbon Detonation
+    The white dwarf builds up mass every nova cycle
+    When the pressure becomes too much, the electrons will collapse and the neucleii will fuse throughout the star all at once, exploding and destroying a star
+
+A white dwarf that surpasses 1.4 solar masses it causes a Type I Supernova
+    1.4 solar mass is the standard
+
+The Chandrasekhar Limit
+    The more massive a white dwarf, the smaller it is
+
+Wavelength = h/mv
+Wavelength is porportional to 1/mv
+If mass goes up, wavelength goes down
+
+proton is 1837x the size of an electron
+
+Supernovae
+    Type I: binary star system, useful for measuring distances in the universe because of the consistant mass it happens at
+    Type II: Huge star exploding
+
+The End of a High Mass Star
+    Iron does not produce energy when it fuses
+        Nothing to stop the star from collapsing in on itself
+    The evolution of a star accelerates as it gets older
+    It starts to implode, and the temperature goes way up
+        The blackbody is gamma radiation
+        So energetic to split the iron
+        all you are left with is protons, electrons
+        Core continues to collapse and makes pure neutrons
+            as well as a neutrino
+        The outer layers now fall into the core
+        It rebounds and the layers explode out
+            neutrinos add their energy to the rebouning layers making the process more violent
+
+    The density of the core is 10^15 kg/m^3
+
+Supernovae
+    Type I: Carbon detination
+    Type II: Death of a high mass star
+
+    They have similar peak intensity
+    Type I fade a way quite quickly
+    Type II stick around longer
+
+Type I and II Supernovae
+    Type I: No hydrogen lines in the spectrum (very little from the other star)
+    Type II: Hydrogen lines in the spectrum
+
+Depending on the shape of the light curve, we can tell the type of supernova (when combined with the spectra)
+
+Supernova 1006 Remnant
+    So bright it was visible during the day
+    able to cast shadows at night
+    Records of it all over the world
+    Now we can observe the remnant
+    Can see an expanding shell of material
+        can measure how fast it is expanding using redshift
+
+Supernova 1054 Remnant
+    Not as bright, but still visible to the naked eye
+    The Crab Nebula was created from this
+
+At the centre of the Crab Nebula lies a quickly spinning neutron star, known as a pulsar
+The strong magnet fields can accelerate protons and electrons to about half the speed of light
+
+Vela Supernovae
+    Exploration shows its exploded 9000 years ago
+
+Supernova 1987A
+    Occured in a dwarf galaxy
+    Just visible to the unaided eye
+    The day before the observation was made, the neutrinos were observed
+    It was a blue supergiant before it exploded
+
+Supernova Surveys
+    Can be used to help measure distance to other galaxies / our own galaxy
+    Sloan Digital Sky Survey
+
+A Neutron Star
+    What is left over ant it is about the size of Victoria and more massive than a White Dwarf
+
+Black Holes
+    If the original star is massive enough the neutron core can even collapse into a black hole
+
+The Formation of Elements
+    During the evolution of a star, we see how elements up to iron are produced
+    The more elements that are created in a star, the more possible paths
+
+
+
+
+
