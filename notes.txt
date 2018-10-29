@@ -1559,3 +1559,152 @@ The Formation of Elements
 
 
 
+==========
+2018-10-29
+==========
+
+The Formation of Elements
+    There are 81 stable and 10 radioactive elements that exist on our planet. Where did they come from?
+    Where do those 'peaks' on the graph come from
+        Helium capture
+
+Beyond Iron
+    Creating new elements by building nuclei with different amounts of protons and neutrons is called
+    Nucleosynthesis
+
+The Formation of Elements
+    Some of these elements are formed during normal stellar fusion. Here, three helium neuclei...
+    As fusion progresses in a star, there are different paths that fusion can take
+        2 carbon-12 will create Magnesium-24
+        But there is a repulsion, so they must overcome this force to fuse together
+        carbon-12 + helium-4 fuse together to create oxygen-16  much easier - less repulsion
+    Most common is helium fusing with something else
+
+    When stars become very evolved, the core will be made up of heavier elements
+    Sometimes the gamma rays are sufficient energy to split neuclei
+        As temperature rises, the more energy the gamma rays will have
+
+    In the course of the stars, build of of these elements until iron
+    Produces free neutrons to create heavier elements
+    Most of the buildup of these heavier elements happens at the end (last seconds) of the star's life
+
+Beyond Iron
+    Elements heavier than iron can't be fused inside a star, but they still can be produced (in supernovae)
+    Man made elements might exist in supernovae, but they are so unstable that they only exist for seconds before decaying
+        However there is no evidence of this, it is only speculated
+
+The cycle of stellar evolution
+    a supernova will go out, collide with the interstellar medium initiating a collapse, star to fragments untill fusion can begin to create a star
+    This is constantly happening throughout the universe
+
+
+Ch22 Neutron Stars and Black Holes
+
+Neutron Stars
+    Supernova
+        Type I: carbon detonation 
+            Completely destroys the star
+        Type II: High mass star collapse
+            Leaves a reminant behind: a neutron star or black hole
+
+High Mass Stellar Remnants: Neutron Stars
+    Extremely dense, degenerative
+    Have strong gravity, and magnetic fields
+    The magnetic field also becomes compressed and intensified
+        Most powerful magnetic fields in the universe
+    Rotates extremely quickly
+        1-1000s of times per second
+
+Neutron Stars
+    Magnetic field is rotating extremely fast
+        Excelerating charged particles
+
+Pulsars
+
+Jocelyn Bell
+    Descovered pulsars
+
+The Lighthouse Effect
+    The magnetic fields are so strong, it channels charged particles into the poles, and then responsible for launching particles out of the poles
+    Rotational axis and magnetic field is most likely not aligned
+        When it is spinning, the hotspot is also spinning
+        If we are aligned with the hotspot, it will look like the star is turning on and off, or pulse
+    A wind flows out of the equatorial plane, different from the jets
+        Creates a disk around the neutron star
+
+Pulsars
+    At the center of the crab nebula, we see a pulsar at the center of a disk, as well as jets comming out of the poles and a magnetic field pointed a the earth
+    
+    We have the rotational axis of the star, and the magnetic field is offset at some angle
+    If we are alinged with the beam, we will see flashing as it rotates (Like a lighthouse)
+    This pulse is vary narrow
+        It tells us that the object emitting this is very small
+
+Neutron Star Binaries
+    They can exist in binary systems
+    X-ray bursters
+        Material will build up on the neutron star, eventually exploding and fading away to repeat the cycle again
+        This is emmited in the x-ray part of the spectrum
+        Material can also be shot out of the poles of the neutron star, visible in radio
+    Whithin the binary system, the material can come in forming an ecreation disk, and slowly spirals into the star
+        Within the disk is friction, causing it to lose momentum
+        With each impact, it can give the star a little push
+        This adds up over time and can speed up the rotation of the star
+        This is called milisecond pulsars
+        Must exist in a binary system
+    Most millisecond pulsars are found in globular clusters
+        But these should have faded away long ago, so why do they still exist?
+
+    Sometimes a neutron star can come into a binary systems, capturing one and ejecting the other
+        This will cause the neutron star to come alive again, restarting the pulsar
+    Millisecond pulsars are at the limit of how fast a neutron star can spin
+
+The first exoplanet discovered was around a pulsar
+    The exoplanets rotations caused variations in the pulsar
+
+Gamma Ray Bursts
+    Because they were randomly distributed, it was concluded that they were from outside our galaxy
+    They also have different light profiles
+    The bursts last in the order of seconds
+    Eventually we were able to image some of these bursts visually
+        These showed that they were happening very far away
+
+    Two Models
+        Merging Stars: 
+            Neutron stars will slowly spiral into each other, and if they collide they will cause a massive explosion of gamma rays
+        Hypernova: 
+            The highest mass stars will collapse until they become a black hole, meaining that there is no rebound, creating an accreation disk that punches through the star, 
+            the jets puch through the outer atmosphere of the star creating gamma rays
+    
+    Which model is correct?
+        Probably both
+
+Black Holes
+    Neutron stars have an upper limit 3-4 solar masses
+    What happens if we go beyond?
+        Thought to be a black hole
+    Nothing can escape from them
+    
+    When a material collapses beyond the degenerative threshold
+    The core of a dead star has collapsed into a single central point of infinite density
+        most likely not what actually happens even though the science points to this
+
+Escape velocity
+    for a black hole, the escape velocity reaches the speed of light
+
+The Schwartzschild radius
+    the radius where the speed of light is the escape radius
+
+Black Hole Misconceptions
+    Massive Monsters: Doesn't actually happen, if the sun becomes a black hole, the earth will still rotate around
+    Vacuum Cleaners: Only happens when you are extremely close to the black hole
+
+Einstein's Theory of SPecial Relatiavity
+    Nothing can travel faster than the speed of light
+    No matter how you measure the speed of light, it is always constant
+
+
+
+
+
+
