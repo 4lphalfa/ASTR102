@@ -1708,3 +1708,90 @@ Einstein's Theory of SPecial Relatiavity
 
 
 
+==========
+2018-11-01
+==========
+
+Gamma-Ray Bursts
+    Two Models -- Merging neutron stars or a hypernova -- habe been proposed as the source of gamma-ray bursts:
+
+Einstein's Theory of Special Relativity
+    Speed of light is constant for all observers
+        no matter how fast you are moving
+    Space and time have to be linked together
+    Flow of time is relative
+
+Space and Time
+    'Unified space-time'
+    Moving clock (Thought experiment)
+    Elevator (Thought experiment)
+        in the elevator, you can't tell the difference
+        Gravity and accelerations seem to be the same thing
+
+General Relativity
+    Instead of having an either, the fabric of space-time can have a geometry
+        Things will follow the shortest path
+        Gravity is a geometrical effect
+
+    A black hole occurs when the 'indentation' caused by the mass of the hole becomes infinitely deep
+
+Black Hole Tidal Forces
+    Far away, the behave like normal objects
+    As you come close, you will feel the differential gravitation very strongly
+
+Space Travel Near Black Hole
+    Because space and time are one in the same, when it stretches out time moves more slowly
+        At the event horizon, time would stop (for us observing)
+        For the clock, time goes on as normal
+    
+    Gravatitional red shifting
+    As the light moves away from the black hole, the light waves get stretched out and redded
+    When an object leaves the black hole, it needs to expend energ
+
+Inside of Black Holes
+    What's inside a black hole
+    It will be compressed into a singularity
+
+Observational Evidence for Black Holes
+    Cannot be observed directly
+        Light will warp around it
+    
+    Cygnus X-1
+        Small sharp signal, small object
+        Very massive
+        in binary system
+  
+    Much larger black holes that we can infer
+        at the center of the galaxy
+        We see stars are orbiting around something, but there is nothing there
+
+Gravitational Waves
+    
+LIGO (Laser Interferometer Gravitational-Wave Observatory:
+    Laser light source, hits a mirrow and interferes with each other
+
+
+Ch23 The Milky Way Galaxy
+
+Galaxies
+    "Galaxy" from the Greek "galactos" (milk)
+
+Our Parent Galaxy
+    Galactic Disk
+    Galactic Buldge
+        Older stars
+    Galactic Center
+    
+    Andromeda Galaxy is similar
+        but twice the size
+        Looks eliptical because we are looking at a circle from an angle
+
+The Milky Way's True Nature
+    400BC Democratice proposed that it was made up of countless stars
+    In 1755 Kant thought that the Milky Way was composed of countless stars, at vast differences
+        Depending on how we observe, it can look circluar or elipsoid
+
+
+
+
+
