@@ -1795,3 +1795,171 @@ The Milky Way's True Nature
 
 
 
+==========
+2018-11-05
+==========
+
+Ch23 The Milky Way Galaxy 
+
+The Milky Way's True Nature
+    
+Measuring the Milky Way
+    Made the assumption that all stars have the same brightness
+    Counted them
+    They were able to make a map of the milky way
+    Wasn't accurate, but concluded it was a disk
+        Plotted the position of our sun
+        Had weird 'fingers' that were created by dust clouds
+    Only saw a tiny portion of the milky way galaxy
+        vertical component was roughly accurate
+
+The Distance Ladder
+    Radar ranging: ~1AU
+    Stellar Parallax <200pc
+    These cannot be used for distant stars
+
+Stellar Distances
+    We can figure out the type of star, and what the brightness should be
+    We can then calculate the distance
+
+Stellar Distances to clusters
+    Difference i main sequence apparent brightness may be used to infer the relative distances to two clusters
+
+Stellar Distances
+    For larger scales, we have to calibrate with clusters closer to us
+
+    Young clusters main sequence will have protostars and hot blue stars
+    Older clusters has turnoff, red giants, white dwarfs
+    Powerful techniques but...
+
+The Distance Ladder
+    Spectroscopic Parallax < ~10000pc
+
+Measuring the Milky way
+    Some stars have fixed brightness
+    We use variable stars to determine how far away they are based on their brightness
+    RR Lyrae stars and Cepheids
+
+    As stars evolve, as they leave the main sequence (hydrostatic equilibrium) and the star doesn't change in size/luminosity
+    When they do, it will have its helium flash and will remain on the horizontal branch, in a weird state where they pulsate, 
+    they produce a lot of energy and the opacity changes, as the outer atmosphere becomes less dense, puff up, loose energy and shrink, and then continue this cycle
+    If we can ID on of these stars as an RR Lyrae
+    Any star on the horizontal branch, regartless of mass, have the same luminosity
+    We can use these to determine the distance
+    
+    RR Lyrae and Cepheid have different luminosity curves
+
+Period-luminosity relation
+    After analyzing thousands of stars, it was found the Cepheids that have a longer period the greater the luminosity
+
+Measuring the Mikly Way
+    RR Lyrae
+        Horizontal branch
+        Have the same luminosity
+    Cepheids
+        Have a period-luminosity relationship
+        Longer the pulsation, the brighter the star
+    Standard Candle: apparent brightness is proportional to Luminosity/(Distance)^2
+
+The Distance Ladder
+    Variable Stars: 25Mpc
+    they are calibrated using stellar parallax
+    build one on top of the other
+
+Globular Clusters
+    Star clusters that are very old and dense (millions of stars)
+
+Measuring the Milky Way
+    Use RR Lyrae stars to measure distances to globular clusters around our galaxy
+    Found out they weren't centered around the sun, but 8kpc away (the galatic center)
+
+    We are half way out of the galaxy (by his maps)
+    The globular clusters are distributed all around our galaxy, not just the disk
+
+The Great Debate (1920)
+    Shapely - One Camp:
+        Our galaxy is so huge that nothing lay beyond it 
+    Curtis - Other Camp:
+        what they called nebulae were actually other galaxies
+
+The Great Debate (1924)
+    Measure Cepheids in the the andromeda galaxy
+    Found that it was extremely far away
+    Without a doubt, an external galaxy
+    Showed that the universe was expanding (Big Bang)
+
+Galactic Structure
+    
+Galactic Spiral Arms
+    Measurement of the position and motion of gas clouds shows that the milky way has a spiral form
+
+Galactic Structure
+    Globular clusters exist in a sphirical distribution around our galaxy in random orbits (galactic halo)
+        Old stars can also exist in the galactic halo
+    The halo is devoid of gas and dust, no material to form new stars, all condensed in the disk
+    The Galatic Buldge, lots of old stars, new stars in the center
+        Like mini eliptical galaxies
+
+    Halo stars move in any direction
+    Stars in the disk moves as a disk
+    The Buldge stars move in any direction
+
+Formation of the Milky Way
+    Lots of raw (hydrogen, some helium) material that collapse, forming new stars in these gas clouds
+    Through gravity, the gas clouds would merge
+    When the material came together, it would have a motion it would want to maintain
+    As the merged mass spun up, gas and dust falls into the disk, globular clusters and old stars remain
+    New stars will form in the disk
+    
+Galatic Spiral Arms
+    Lots of debate about where they come from
+    Something needs to enduce them
+    When mergers happens between galaxies, tidal forces will create arms
+    There is variable rotation between the center and the arms, causing the arms to curl up
+
+    Interactions are thought to create spiral arms
+    Why are they persistence?
+
+Density Waves
+    (Who really knows?)
+
+The Mass of the Milky Way Galaxy
+    Figure out how quickly is our star orbiting around the galaxy
+        The only mass that determins how fast something orbits is the mass within the orbit
+
+Remember Kepler's 3rd Law
+    p^2 is proportional to a^3
+    All the planets in our solar system follow this law
+
+Newton + Kepler = Mass
+    p^2 = a^3/(Mass)
+
+The Mass of the Milky Way Galaxy
+    But this only measures part of the Galaxy
+    We need to find objects at the edge of the galaxy to get a better measurement
+
+    When we look at the edge of the galaxy, 
+    If all the mass in the galaxy is what we see, at a certian point far out from the galaxy, the velocity would decrease
+    This isn't true which means that the mass of the galaxy continues to increase the further from the center
+    The mass of the galaxy doesn't end where it visibly ends
+
+The Dark Matter Halo of the Milky Way Galaxy
+    It looks like our galaxy is embedded in a halo of dark matter that surrounds the galaxy
+
+The Mass of the Mikly Way Galaxy
+    What could this dark matter be?
+    There are things we cannot detect
+        Stellar-mass black holes
+            Probably not enough of them could have been created
+        Brown dwarfs, faint white dwarfs, and red dwarfs
+            Best star like option but unlikely
+                These are called MACHOs (Massive Astrophysical Compact Halo Objects)
+        Weird Subatomic particals
+            No evidence so far
+                These are called WIMPs (Weakly Interacting Massive Particles)
+
+
+
+
+
+
