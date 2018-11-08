@@ -1963,3 +1963,134 @@ The Mass of the Mikly Way Galaxy
 
 
 
+==========
+2018-11-08
+==========
+
+The Mass of the Milky Way Galaxy
+    The basic idea is the same as measuring our solar system
+    For our galaxy, we can use the sun's distance and orbital speed to find the mass contained within our sun's orbit
+    To find the total mass, we must pick an object that orbit the edge
+
+    If the mass was only contained in what we see, the orbital motion would be expected to drop of as we move away from the galaxy
+    But this is not the case, orbital speed actually increases
+    This means there is matter there we cannot see
+    
+    There have been attempts to measure the MACHOs
+    If you look at a dense region long enough, you expect stars to pass in front of each other
+
+Gravitational Lensing: Searching for MACHOs
+    When a star passes in front of another, the blocked star will become brighter due to gravitational lensing
+
+Microlensing
+    Can accound for 20% of the unseen matter of our galaxy
+    More of these studies need to be done
+
+The Galatic Center
+    extremely dense with stars
+
+    Weird features are thought to be produced by strong magnetic fields
+
+    Appears to have:
+        stellar density a million times higher than near earth
+        are right of molecule gas 400 pc across
+        Strong magnetic fields
+        A rotating ring or disk of matter a few parsecs across
+        A strong x-ray source at the center
+
+    Not only we can see the surroundings at different wavelengths, we can resolve stars orbiting around the sagA, but we cannot see sagA
+    
+
+Ch24 Galaxies: Building Blocks of the Universe
+
+The Hubble Deep Field
+    Looked for a region of space that had no stars in it
+    What happens if we leave the telescope open for 10 days pointed at this region?
+    If you look anywhere in the sky for long enough, you see a universe full of galaxies
+    
+Clusters of Galaxies
+    Dominated by a much larger galaxy
+
+Many types of galaxies according to their optical morphology
+    Spiral
+    Barred Spiral
+    Barred S0: might have a bar, but don't have spiral arms
+    Lenticular (S0): Only disks
+    Elliptical: too hot to form stars
+    Irregular: lower mass
+    Peculiar: galaxies that are interacting with each other, higher mass
+
+Hubble's Galaxy Classification
+    Spiral
+        Some spirals are tightly wound, large buldge: Sa
+        medium wound and buldge: Sb
+        Loose and patchy, small buldge: Sc
+
+    The components: disk, core, halo, buldge, and spiral arms
+
+    Sometimes hard to determine if it has spiral arms because we view them edge on
+
+    Spiral Barred (similar to spiral galaxies)
+        SBa
+        SBb
+        SBc
+
+    Elipticals are classified according to their shape from E0 (Almost spherical) to E7 (the most elongated)
+        No spiral arms and no disks
+        Come in many sizes, from giant with trillions of stars, to dwarfs (might just be a buldge with the rest ripped off) with less than a million of stars
+
+    S0 (lenticular) and SB0 galaxies have a disk and buldge, but no spiral arms and no interstellar gas
+
+    The irregular galaxies are small and have a wide variety of shapes
+    Generally has lots of cool gas
+
+    The oldest system comes from Edwin Hubble (Hubble tuning fork)
+        Though that elipticals evolved into spirals/barred spirals
+            The modern way thinks the opposite
+
+    The Hubble Tuning Fork
+        The problem is that many galaxies do not fall into this classification scheme
+
+Hubble-De Vacoluleurs Diagram
+    Adds intermediate spirals
+
+Galaxy Zoo Classification Tree (GZ2)
+    The general public will be shown a picture of a galaxy and asked questions to classify 
+
+The Distribution of Galaxies in Space
+    From Hubble, we know we can use cephiod varable stars
+        This only works to a certian distance, before the become too faint to see
+            Or they don't exist in the galaxy because they are too old
+    If you can figure out the rotation speed of a galaxy, you can figure out its luminosity
+
+Tully-Fisher Relation
+    The faster the object is rotation, the more lumionous is
+    This is beause faster galaxies are more massive, and there for more luminous
+
+The Distribution of Galaxies in Space
+    Another thing we can use to figure out distance to galaxies is Type I Supernovae
+
+    With these additions, the cosmic distance ladder has been extended to about 1 Gpc
+    Type I supernova is independent to the other methods, which means we can use it for comparison
+
+    The group of galaxies that the Milky way resides in is called the "local group"
+        3 spirals
+        lots of satallite galaxies
+
+Galaxy Clusters
+    10s - groups
+    100s - clusters
+    Virgo Clusters
+        we are near the outer edge, on our way in
+
+    The Abel Cluster
+        The image has 'arcs' throughout the image
+        Has a distortion
+            Galaxies are creating gravitational lenses Mpc in size
+
+    If we look at distant galaxies, we can see that they are redshifted
+
+
+
+
+
