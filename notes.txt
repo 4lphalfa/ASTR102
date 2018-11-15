@@ -2094,3 +2094,101 @@ Galaxy Clusters
 
 
 
+==========
+2018-11-15
+==========
+
+The Hubble Tuning Fork
+    The initial explanation is not correct, but is used commonly throughout astronomy
+    You should know these
+
+The Distributions of Galaxies in Space
+    Standard Candles: Objects whose absolute magnitude is known
+
+Tully-Fisher Relation
+    correlates a galaxy's rotation speed to its luminosity to estimate mass
+
+Galaxy Clusters
+    At larger distances, we see we are in a group
+    On the outside of the Virgo Cluster
+
+    As we look at farther distance we see galaxies are receeding from us
+    
+Hubble's Law
+    Distance is corelated with recession speed
+
+Galaxies Receeding
+    Hubble found that galxies were rushing away from us, and the further out the faster it is moving
+
+Hubble's Constant
+    H naught: The rate of expansion of the cosmos
+    Hubble's law ifn the form of an equation: Velocity = H naught x Distance
+
+Knowing the redshift correlates well to determining distance
+    Calibrated with Tully-Fisher and Standard Candles
+
+Universal Expansion
+    The fabric of space-time is expanding itself
+    at larger scales, the expansion of the universe dominates gravity
+
+    When we see light from a distant galaxy, it is being redshifted because of spacetime expanding
+
+    The size of the universe today vs then
+
+Quasars
+    seen in the 30s-50s
+    In the 60s objects were discovered that were bright in the radio
+        Have interesting spectra (not a black body)
+    Quasi-stellar radio sources
+    Have jets that come out of them
+    They emit a tonne of energy that aren't found in stars
+
+Supermassive Black Holes
+    Most of the energy is comming from the center of the ecretion disk
+        it comes out of the ecreation disk, but it gets reemitted until it becomes infared
+
+Active Galatic Nuclei
+    There is a ecreation disk around the black hole
+
+We know that quasars are small becuase the flickering is very quick
+    Flicker is determined by size of the object 
+
+
+
+Ch25 Galaxies and Dark Matter
+
+Weighing the Galaxy
+    
+Dark Matter around Galaxies
+    Dips and rises are due to the gaps in the galaxy
+    Velocity should decrease once we measure orbiting objects
+        this is not the case
+
+Dark Matter in Spiral Galaxies
+    Our galaxy is similar to others
+    10:1 dark matter to regular matter
+
+    For galaxy clusters, we can look at the cluster as a whole and look at the spread of velocities
+
+    Galaxy clusters: 10-100:1 dark matter to regular matter
+
+Dark Matter and Galaxy Collisions
+    if you only include visible matter, simulations are not correct
+        If you add dark matter, you get accurate simulations
+
+Galaxy Collisions
+    close interactions can ignite star formation
+    These interactions also fule quasars
+
+Galaxy Formation and Evolution
+    When we look at an object 10 billion light years away, we see what they looked like 10 billion years ago
+    Younger galaxies do not have the structures of older galaxies
+    Galaxies farther away have much more mergers, closer galaxies are more structured
+    The amount of mergers drop off over time
+        start off low, quickly spike, and then slowly drop off
+
+
+
+
+
+
