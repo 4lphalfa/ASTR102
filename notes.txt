@@ -2192,3 +2192,71 @@ Galaxy Formation and Evolution
 
 
 
+==========
+2018-11-19
+==========
+
+Galaxy Formation and Evolution
+    Mergers are important to how they are formed in the first place
+    They are more irregular when younger
+
+Galaxy Merger Tree
+    Redshift of 7-8 (quasars)
+
+Galaxy Formation and Evolutions
+    Galaxies with higher redshits are farther away and more irregular in shape
+
+Dark Matter Halo Simulation
+    
+Galaxy Accretion Events
+    Minor Mergers
+        Larger and smaller galaxy, smaller is disturbed by the gravity of the larger which sometimes rips the small apart and becomes part of the larger
+        Smaller can also distort larger galaxy
+        Doesn't change it's hubble type
+    Major Merger
+        galaxies that have similar sizes to each other
+        Completely distroy each other and become something new
+
+Mergers and Galaxy Types
+
+Stars don't generally collide with each other, but dust clouds do
+    Lots of new star formation
+
+Black Holes in Galaxies
+    all but the smallest galaxies have a black hole at it's center
+    corrilation between mass of the black hole and the mass of the buldge
+
+    Quasars are powered by black holes
+
+    We see the most quasars at the peak mergers in the universe
+        the quasar epoch
+
+The Universe on Large Scales
+    If we look at an intermediate distance, we have these voids and walls
+        even superclusters are moving together
+        voids lose their material to these walls
+    If we zoom out even further, the structure goes away and everything seems to be homogeneous
+        Everything is the same
+
+    We can learn about the intervening space by careful study of quasar spectra
+
+    We can use this to detect very faint or cold things
+
+Gravitational Lensing on Large Scales
+    we can see the same quasar at two different points of times
+
+    Can also be used to estimate the mass of the galaxy that is creating the lense
+    
+    This is caled Strong Gravitational Lensing
+
+"Weak" gravitational lensing
+    don't appear to have much distortion, but with computer software we can determine if it is slightly bent
+
+The 'Bullet Cluster'
+    two clusters colliding with each other
+    Provides evidence for dark matter existing
+
+
+
+
+
