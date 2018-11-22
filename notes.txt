@@ -2260,3 +2260,118 @@ The 'Bullet Cluster'
 
 
 
+==========
+2018-11-22
+==========
+
+CH26 Cosmology
+
+The Universe on the Largest Scales
+    This galaxy map shoes the largest structure known in the universe, the Sloan Great Wall. No structure larger than 300Mpc is seen.
+
+    On larger scales structures seem to 'disappear'
+    Beyond ~300 Mpc the Universe appears uniform and isotropic
+
+    This pencil beam survey is another measure of large-scale structure. Atain, there is structure at about 200-300Mpc, but nothing larger
+
+    The Universe is actually homogeneous at the larger scales, appears to be isotropic
+    The Cosmological Principle includes the assumptions of isotropy and homogeneity
+
+Is the Universe Infinite?
+    The sky is dark
+
+    Olber's Paradox:
+        if the universe is homogeneous, isotropic, infinite, and has existed for ever, the entire sky should be incredibly bright
+
+A Finite Universe
+    So, why is the sky dark at night?
+    The universe is homogeneous and isotropic -- it must be finite is spatial extent or in time
+    But we know that the Universe is expanding (Hubble's law)
+    recession velocity = Hubble constant x Distance
+
+    If Hubble's constant is constant, 14 billion years ago the calculation would still yield 14 billion years ago
+        Hubble's constant is not actually constant
+    
+The Expanding Universe
+    Note that Hubble's law is the same no matter who is making the measurements
+    Each galaxy will see itself as the center of expansion
+
+    Where was the big bang?
+        Everywhere
+
+    When the universe expands, electromagnetic waves are embedded into space-time
+
+    Big Crunch model
+        Could also osolate between the two states
+
+    Approaching infinite
+
+    Universe is accelerating due to vaccum energy
+
+    The same analogy can be used to explain the cosmological redshift
+
+The Fate of the Cosmos
+    2 possibilities
+        Keep expanding forever
+        It could collapse
+    Assuming that the only relevant...
+
+    If the density is low, the universe will expand forever
+    It it is high, the universe will ultimately collapse
+    These have different start times for the big bang
+        The stars are a little bit older than what is predicted by the big crunch model
+        sort of close to the age of the expansion foever model
+
+    Critical density: 
+        if the mass of the universe is greater, the universe will stop expanding and collapse on itself, 
+        If lower, the universe will expand forever, 
+        if is equal, it will eventually reach 0 at infinity (flat universe)
+    Evidence points towards the flat universe
+
+Mass-Energy content and Geometry of the Universe
+    If the universe has too much matter, the universe will grow, stop growing, and collapse on itself
+    If the universe has too little matter, it is infinite
+    Flat universe appears to be the geometry we live in
+
+Curved Spacetime
+    Triangles
+    Flat: sum to 180
+    Closed: sum > 180
+    Open: sum < 180
+
+The Geometry of Space
+    In a closed univers, a proton theoretically would eventually return to the point where it originated from
+
+An Inventory of the Universe
+    Ordinary Matter: the adoms that make up planets, stars, galaxies, intergalactic gas -- makes up ~4% of the critical density
+    Dark Matter: material holding together galaxies and clusters of galaxies -- ~25% of the critical density
+    So what about the rest?
+
+Will the Universe Expand Forever
+    Dark matter appears to be some unknown particle but massive, doesn't interact with light
+
+The Expansion of the Universe
+    We need to determine how the universe is expanding with time
+        Hubble's constant is not constant, changing with time
+    We need to measure how far away things are and how fast they are expanding
+    We can estimate how long it takes for the Universe to change size by measuring the brightness of standard candles
+
+Clues from distant light beacons: Supernovae
+    Type 1a are standard candles
+    Their apparent luminosities may be used to track propagation of light in universe
+
+The Expansion History of the Universe
+    Different models will have different expansion curves
+    We can plot the supernovae to get a expansion curve
+
+Will the Universe Expand Forever
+    The data we have indicates that the universe is accelerating
+    This is not explained by the current theories that we have
+
+Einstein and the Cosmological Constant
+    Before Hubble, Einstein added in a constant to keep his universe static
+    It turns out that this cosmological constant can be used to make the universe expand
+
+
+
+
