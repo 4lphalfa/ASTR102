@@ -2375,3 +2375,144 @@ Einstein and the Cosmological Constant
 
 
 
+==========
+2018-11-26
+==========
+
+Will the Universe expand forever
+    We can use Type I supernovae as standard candle to test the curve
+    Depending on our model, we should have a certain redshift at a certain distance
+    What we find is that we have an accelerating universe
+    Note that a small error will have a drastic effect on the conclusion we make
+
+    To make our universe expand like how it's modeled, there has to be some energy/force causing it
+    Repulsive force
+
+Einstein and the Cosmological COnstant
+    Now it seems like the cosmological constant may be necessary to explain the accelerating universe
+
+Dark Energy and Cosmology
+    Simplest dark force is Einstein's cosmological constant (Lambda)
+    As the universe expands, the universe becomes less dense, which makes the universe accelerate from the cosmological constant
+
+    Different theories will predict ages of the universe
+    Right now, we are at a point of time where all of these theories converge
+        This seems suspect
+
+Dark Energy = Lambda = Vacuum Energy
+    The Uncertainty Principle
+    The more precicely you try to measure something in time, the less precise you know it's position
+
+Was there a Big Bang
+    Noticed there was a background hiss in the radio antenna
+    There should be a signal from the big bang that is highly redshifted
+    This is what the hiss was
+
+The Perfect Black Body
+
+Cosmic Microwave Background
+    The entire spacetime around us is not 0K
+        but 3K
+    1s gamma rays are redshifted to the radio waves we see today
+
+    The measured and it exactly fint the curve that they predicted
+
+Light from the farthest frontier
+    isotropic to one part in 100000K
+        so very smooth, but not homogeneous
+    If we look closely enough we see fluctuations
+
+Cobe Maps
+    Our motion through the universe
+        We see a redshifting because of it
+    Dust in our galaxy
+        We will have to correct for this
+    Primordial Fluctuations
+        What existed at the beginning of the universe
+        Take away the previous two
+
+We have had a vast increase of resoulution in the cosmic background radiation
+
+Possible Geometries of the Universe
+    Spherical
+    Flat
+    Hyperbolic
+
+Comparison of CMB Observations with Possible Models
+    The three geometries will have a different look
+    The flat universe looks to be similar to what we observe
+
+The Pie of Ignorance
+    If dark energy is real, it makes up the rest of the universe
+    We don't know what dark matter and dark energy is
+        We can't see it
+
+
+Ch27 The Early Universe
+
+4 Possible Models of the Universe
+    Collapsing
+    Apporaching o
+    Constant
+    Accelerating
+
+    Assume we live in the accelerating universe
+
+Back to the Big Bang
+    The total energy of the universe consists of both radiation and matter
+    If you go far enough back in time that the temperature would be in the gamma ray spectrum that could destroy perticles
+        Radiation dominating
+    As you go forward in time, the density would go down and would turn into a matter dominated universe
+    Dark energy density is expected to remain constant with time
+    Eventually sometime in the future, we will have a dark energy dominated universe
+        This is the point where the universe will start to accelerate
+
+Temperature of the Universe
+    Today
+    Stars form
+    Galaxies form
+        These happen roughly at the same time
+    Atoms form
+    Electron and positrons form
+    Protons and anti-protons form
+    Radiation dominates
+    Forces are unified
+    Earliest era: rules unknown
+As you go back in time, it gets denser and hotter
+
+Particle interactions in the Early Universe
+    If you have 2 gamma rays and they interact just right, the will produce particles
+        You can create matter out of energy
+    Only way to produce Deuterium is the same process that happened in the early universe
+        This model predicts a percentage of deuterium that exists
+        This percentage matches the estimated deuterium in the universe
+
+Back to the Big Bang
+    There would have been an equilibrium between radiation and positron/neutrons
+    When the temperature drops the gamma rays can't destroy matter and existing matter 'froze out'
+
+Evolution of the Universe
+    WHy do we live in a universe that's made of matter?
+        This pair production produces matter and anti-matter
+        It is thought that there is more matter produced
+        So where is this anti-matter?
+            Possibly beyond the horizon that we can't see
+
+    What would the universe begun from
+        Calculations predict a singularity, but this might not be ture
+        We go bact to 10^-43 seconds after the big bang, plank time
+        We can go back to the first frame, but we don't know what happened in this first frame
+        We also need physics that we don't know to understand
+
+As we go forward in time, originally the temperatures were so high that the all the particles could be created and destroyed by this background radiation
+All the forces are thought to be united
+Eventually you reach a point where these forces separate
+
+As soon as the first frame completes, gravity splits off
+Fractions of seconds later, strong neuclear, weak neuclear, and electromagnetic split off as well
+
+
+
+
+
+
