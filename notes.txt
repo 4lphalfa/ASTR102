@@ -2516,3 +2516,117 @@ Fractions of seconds later, strong neuclear, weak neuclear, and electromagnetic 
 
 
 
+==========
+2018-11-29
+==========
+
+Back to the Big Bang
+    The Lambda (Dark Energy) Cold Dark Matter Model
+    There is an inherent energy to space-time itself
+        There is a resolution of space-time
+    The Plank Scale
+    Plank's Constant
+    THe consequence
+    change in Position x change in Momentum = Plank's Constant / 2
+    In this Dark Energy dominated universe, the universe's expantion will start to accelerate
+
+Particle Interactions in the Early Universe
+    Positron and Electron have the same mass but opposite charge
+    When they collide with each other they are completely anhilated
+    As the volume of the universe was smaller, the temp and density of the univere was higher, causing certain particles to be created
+
+Back to the Big Bang
+    If the photons are more energetic, they can create and destroy positrons and electrons
+    As the photons lose energy, they lose their ability to create and destroy positrons and electrons
+
+Evolution of the Universe
+    There reaches a point where neucleus' can be formed
+    Why aren't all the heavy elements produced in the big bang?
+        Within a star, the pressure and temp are constantly rising
+        The opposite is happening in the early universe
+            Temp and density is dropping
+        Can't continue on to create the heavy elements
+    Photons drop low enough that electrons stop binding to the neucleii
+    Creation of atoms
+    Creation of everything else, stars, 
+
+    Protons and neutrons are made of other particles [quarks (up and down)]
+    Need more energetic photons to create them
+    In the standard model of physics, exchange particles
+    Entire spectrum of particles as the temperature drops
+    Universe is growing in size
+
+    When we go all the way back to the beginning, we can predict back to 10^-43 seconds after the big bang
+
+    The forces of nature were though to be combined at the start of the universe
+    As the universe expands, the density and temp drops and the photons becomes less energetic
+    particles freeze out, with heavier particles freezing out first
+
+    Other things happening
+    At certain times the universe will become transparent to certain things
+        Neutrinos
+        Photons
+    The moment where atoms are first formed is when they think the cosmic background radiation comes from
+
+Formation of the Nuclei and Atoms
+    Fist produced is Hydrogen
+        Deuterium (heavy water)
+        These combine to form helium
+
+    The lambda CDM model the relation of the elements
+    We can look at the original compositions and see that the actual proportions match the model
+
+    When we look backwards in time, we come to this limit to where we can't see further
+    Cosmic background radiation comes from this limit
+    Similar to what happens when we see clouds
+
+The Inflationary Universe
+    The Horizon Problem
+        Region A and B are essentially identicle
+            Why is this?
+
+    The Flatness Problem:
+        We need the perfect amount of matter to make this true
+            Why is this?
+
+    Very early on, after this plank time, the universe would have expanded faster the speed of light
+    There is nothing saying that space-time itself can't move faster than the speed of light
+    Opposite points of the universe are expanding away from each other faster than the speed of light
+    When it expands very quickly, it helps solve the Horizon and Flatness problem
+
+    Horizon Model
+        Point A and B would be in thermal contact with each other
+
+    Flatness Model
+        If we imagine that the universe could have any geometry and blow it up big enough, it would seem like the geometry would be flat
+        The part of the universe we can see is flat
+
+A quantum vacuum energy fluctruation may have spawned our universe
+    Energy can fluctuate, and its possible that the energy could become non-zero and expand
+    It seems this vacuum energy is real
+    These quantum fluctuations are real
+
+    Quantum fluctuations are predicted to 
+        Have a vast range of what they could be
+
+Formation of Structure
+    Dark matter appears to be a particle that is much more massive and has a charge of 0
+        Would have formed very early on
+        Because of the 0 charge, it doesn't react to electromagnetic radiation
+    Charged particals are heavily influenced by photons
+    We would have dark matter created early one, normal matter a short time later
+    Normal matter is heavily influeced by radiation and radiaton will prevent normal matter from clumping together
+    Dark matter isn't affected by this, and is affected by gravity
+    This would mean dark matter would start clumping early on
+    When normal matter starts to clump, dark matter is already clumped together
+    Dark matter is the seed for what we see today
+    
+    All of the modern simulations have dark matter in them
+    If you don't include it, you don't evolve things correctly
+
+Cosmic Structure and the Microwave Background
+    By looking at the cosmic background radiation, we can look for the signatures that dark matter would have created
+
+
+
+
