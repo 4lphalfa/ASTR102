@@ -2630,3 +2630,277 @@ Cosmic Structure and the Microwave Background
 
 
 
+==========
+2018-12-02
+==========
+
+Ch4 Spectroscopy
+
+    Kirchhoff's Laws
+        the way we observe light will depend on temp and pressure of the intermediate material (and viewing angle)
+        Hot source goes through gas - gas absorbs electrons causing a jump up and back down emitting another photon, causes absorbtion spectrum
+        faint emission lines can be seen in the emission spectrum
+
+
+Ch17 Measuring Stars
+    
+    The Solar neighbourhood
+        paralax
+            much is calibrated with it
+            When the distance is small, the paralax is bigger
+    
+    Luminosity and Apparent Brightness
+        If something is further away, it drops off by the inverse square law
+
+    Apparent Magnitude
+        Comes from Hipparcause
+        Negative, logarithmic scale
+            larger values are fainter
+            can go into the negatives
+
+
+Ch19 Star Formation
+    
+    Star-Forming Regions
+        To form stars you need lot of material (H gas and interstellar dust), but also is very cold (dense, particles moving slowly), and a nudge (supernovae, collision)
+            Imagine the spectrum from these
+        When they collapse, the center becomes denser, gravitational energy gets turned into heat
+            Prestellar core forming
+        Becomes denser and hotter
+        When fusion turns on, it is classified as a star
+        Will produce a stellar wind to blow away the cloud leaving the star
+        When collapsing, it forms a disk 
+
+    Formations of stars like the Sun
+        Understand H-R diagram
+        When a star begins to form, it emits a lot of energy
+        When it appears on the H-R diagram, fusion hasn't started yet and is quite large
+        When fusion occurs, it pops onto the main sequence
+        Spends a majority of its life on the main sequence
+
+    Stars of other masses
+        Will have different paths onto the main sequence, but they all start off in the same region (temp)
+        OBAFGKN
+
+    Cloud Collapse and Accreation Disks
+        You will have a cloud that has some direction it's moving more than the other
+        When collapsing, this becomes intensified
+        When spinning, it will flatten
+
+    Formations of Jets
+        When forming a disk, they also form jets
+        Many explanations
+            This material in the inner region of the disk bacomes really hot and becomes highly ionized, creates a magnetic field, can launch a jet out
+
+    Shock Waves and Star Formations
+        
+    Star Clusters
+        Useful for studying populations of similar stars
+        If we look at the main sequence, we can see the stars that have evolved off the main sequence to determine the age
+            If little have evolved, the cluster is still young (main sequence turnoff)
+    
+
+Ch20 Stellar Evolution
+
+    Form from a molecular cloud
+    Will heat up until it can fuse hydrogen
+    Is stable for most of it's life
+    Hydrogen in the core will run out, the core will stop producing energy, pressure goes away, core collapses and heats up so that hellium can fuse
+
+    M type stars have lifespans of trillions of years
+    O type stars only live 10 million years
+
+    Review different outcomes based on the mass of a star
+
+    Hydrogen Fusion
+        Don't need to know all the details
+
+    Hydrostatic Equilibrium
+        When a star is in equilibrium, the force of gravity counteracts the force of pressure
+        If the energy shuts down in the center, it is no longer in equilibrium
+
+    Heat Transfer of Stars
+        Low mass: completely convective
+            Burn hydrogen very slowly and has access the entire supply
+        Medium Mass: outer is covection, innter is radiated
+            fuel supply is more restricted
+        High Mas: inner is convection, outer is radiation
+            burns supply very quickly
+
+    Core Evolution of a Sun-like star
+        When there is no more hydrogen in the core, it will collapse, drops off gradually
+
+    Life Track of a Sun-like Star
+        Will become so compressed that the atoms will squish against each other
+        Material will become degenerate: when no space is left in between the particles
+            Behaves differently
+        It will get so hot that hellium will start burning all at once (helium flash) until it stabalizes
+        This will happen until helium in the core is used up, which will then start fusing carbon
+
+    Degenerate Cores 
+        Energy outupt goes way up, becomes unstable
+        Increases the diameter
+
+    Electron Degeneracy
+        Doesn't mean that it can't be compressed further, it just requires a lot of energy
+
+    The Star is Unstable
+        When it reaches a point where it can't burn carbon, it will expand and contract until it blows itself up
+
+    The Death of Low-mass Stars
+        
+    CNO cycle
+        Very high mass stars uses a different type of fusion
+
+    Zig-zags
+        doesn't have the abrupt changes
+        Will burn it's hydrogen, collapse quickly and starts to burn helium, carbon, ..., iron
+        Instead of evolving vertically, it will do so horizontally
+
+    Inside an Evolved Massive Star
+        Iron doesn't prduce energy when it fuses
+
+    Mass Loss from Giant Stars
+        The initial mass of the star does not necessarly determine the life of the star, it can lose mass along the way
+
+    Iron is the end of the road
+
+    The End of a High-mass star
+        Collapse on the iron core, it will break degeneracy, will produce a flood of neutrinos
+
+    Star Binaries
+        How they effect each other
+
+    Repeated Novae
+        Chandrasekhar Limit
+            Electron can no longer stand the pressure, electron will be forced into protons
+
+    Type I Supernovae
+        Always have the same mass (therefore same with brightness)
+
+
+Ch21 Stellar Explosions
+    
+    Life after Death for White Dwarfs
+        For binary pairs, on star can evolve quicker than the others
+        If a main sequence and a white dwarf, if the main sequence puffs up, it can be taken off by its white dwarf
+        Nova will happen, this is a repeated event
+        Every time, the star will keep a little mass
+
+    The End of a High-mass star
+        They will have a violent end
+        Run out of hydrogen, create helium, run out of...
+        The will keep collapsing that the temp will become so hot in the core that the black body will go into the gamma ray spectrum that can destroy all the iron in the core
+        Will create neutrinos
+        Will compress and rebound, expelling the outer layers, leaving a neutron star or black hole
+
+    Supernovae
+        Type I will have a consistent peak luminosity
+        Type II are more varent
+        The light curves are very different
+
+
+Ch22 Neutron Stars and Black Holes
+
+    Neutron stars are really dense
+        very small, but massive
+    Have extremely strong magnetic fields
+    As they collapse, material will be compressed into the core
+        condense magnetic field causing it to be strong
+
+    The Lighthouse effect
+        The jets might not be aligned with the spin axis
+        Spins really fast
+        Has a strong magnetic field
+        The beam will apprear to be turning off and on
+        A Pulsar
+
+    Pulsars
+        
+    Neutron-star Binaries
+        fastes spinning neutron stars are found in globular clusters
+        Sometimes a neutron star will be captured
+        Can dump material onto the neutron star to increase its spin speed
+
+    Gamma-ray bursts
+        Thought to be collisions between neutron stars
+            through to go staight into a black hole
+
+    Black Holes
+        You have a neutron star of a certain size (say 2 solar masses)
+        SC radius would be inside the star
+        Take a 3 solar mass star of the same size, the SC radius would be the same
+        Take 4, the radius would be outside the size, this would be considered a black hole
+
+    Einstein's Theory of Relativity
+        Classical description of gravity breaks down in the extreme situations
+        If you are inside a closed box, not moving with respect to the earth, you will feel gravity
+        If the same box is in space accelerating 9.8m/s^2, there is no way to determine that you are not on earthy
+        Space and time are together in a forth dimension
+
+    General Relativity
+
+    Space-time can have a curvature, and this is what gravity is
+    
+    Space Travel near a black hole
+        Space time is stretched out near a black hole
+        Time is also affected
+        We will observe things close to a black hole slowing down (from the point of the observer)
+
+    Observational evidence for black holes
+        Difficult to observe directly, but we can observe its effects
+
+    Gravitational Waves
+
+
+Ch23 Galaxies
+    
+    Measuring the Mikly Way
+        Different types of variable stars
+        RR Lyrae are similar to the sun, and if they lay in the instability strip, they will pulse
+            Have a constant luminosity
+        Cepheid are brighter, can be obsered in other galaxies
+            Have a period-luminosity relationship
+
+    Period-luminosity relation
+        If we can find its period, we can find its luminosity
+
+    The Distance Ladder
+        Stellar paralax has been used to calibrate all the others
+
+    Measuring the milky way
+        we don't lay in the center of our galaxy
+
+    Galactic Strcutre
+        remember the different parts of a galaxy
+        Galactic Halo: generally contains old stars, globular clusters
+
+    Dark Matter
+
+
+Ch 24
+    
+    Many types of galaxies
+        Pecular: combining
+        Irregular: smaller
+        Know
+            Spirals
+            Barred Spirals
+            Elipticals
+            Lenticular (spiral that doesn't have arms)
+
+    The Hubble Tuning Fork
+        Know this classification scheme for galaxies
+        A, B, C refer to the tightness of the spiral arms, A being tight, C being loose
+        1-6 refer to flatness, 1 being round, 6 being flat (almost approaching a disk)
+
+    Galaxies Receeding
+        Hubble's Law
+
+    Distance Ladder
+        Tully Fischer faster the bigger
+
+
+
+
+
